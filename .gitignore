@@ -1,0 +1,39 @@
+# 环境变量和敏感配置
+.env
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 浏览器配置文件（Playwright）
+auth_profile/
+
+# 调试文件
+debug/
+debug_screens/
+
+# Node.js（如果有）
+node_modules/
+
+# macOS
+.DS_Store
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.bak

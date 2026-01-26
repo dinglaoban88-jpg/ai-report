@@ -1,0 +1,25 @@
+# AI Report 环境变量配置模板
+# 复制此文件为 .env 并填入你的 API Keys
+
+# ===== LLM API (必填) =====
+# DeepSeek API Key (推荐)
+DEEPSEEK_API_KEY=sk-your-deepseek-api-key-here
+
+# 或使用其他 OpenAI 兼容的 API
+# OPENAI_API_KEY=sk-xxx
+# LLM_BASE_URL=https://api.openai.com/v1
+# LLM_MODEL=gpt-4o-mini
+
+# ===== 搜索 API (必填) =====
+# Tavily API Key - 用于产品信息深度搜索
+TAVILY_API_KEY=tvly-your-tavily-api-key-here
+
+# ===== Webhook 推送 (可选) =====
+# 飞书 Webhook
+# FEISHU_WEBHOOK=https://open.feishu.cn/open-apis/bot/v2/hook/xxx
+
+# Slack Webhook
+# SLACK_WEBHOOK=https://hooks.slack.com/services/xxx
+
+# 通用 Webhook
+# REPORT_WEBHOOK_URL=https://your-webhook-url
