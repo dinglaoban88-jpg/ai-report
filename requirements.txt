@@ -13,6 +13,7 @@ schedule>=1.2.0
 
 # Browser Automation (optional, for advanced scraping)
 playwright>=1.40.0
+playwright-stealth>=1.0.0
 
 # Streamlit Dashboard (optional)
 streamlit>=1.28.0
