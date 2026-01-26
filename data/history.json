@@ -16,5 +16,23 @@
     "url": "https://www.toolify.ai/tool/ingestai",
     "source": "Toolify",
     "date": "2026-01-26"
+  },
+  {
+    "name": "iPhotron",
+    "url": "https://www.producthunt.com/products/iphotron",
+    "source": "Product Hunt",
+    "date": "2026-01-26"
+  },
+  {
+    "name": "Echo Now AI",
+    "url": "https://theresanaiforthat.com/ai/echo-now-ai/",
+    "source": "TAAFT",
+    "date": "2026-01-26"
+  },
+  {
+    "name": "DailyScope.ai",
+    "url": "https://theresanaiforthat.com/ai/dailyscope-ai/",
+    "source": "TAAFT",
+    "date": "2026-01-26"
   }
 ]
