@@ -93,10 +93,25 @@ def run_daily_job(
             history.save_recommendations(curated)
             logging.info("History updated: %d items total", history.get_stats()["total"])
 
-        if webhook_url is None:
-            webhook_url = cfg.get("webhook_url", "").strip()
-        if send_webhook and webhook_url:
-            notifier = Notifier(webhook_url=webhook_url)
+        # 收集所有 Webhook URLs
+        webhook_urls = []
+        if webhook_url:
+            webhook_urls.append(webhook_url)
+        
+        # 从配置和环境变量收集更多 Webhook
+        config_webhook = cfg.get("webhook_url", "").strip()
+        if config_webhook and config_webhook not in webhook_urls:
+            webhook_urls.append(config_webhook)
+        
+        # 支持多个 Webhook 环境变量
+        import os
+        for env_key in ["WEBHOOK_URL_2", "WEBHOOK_URL_3", "KDOCS_WEBHOOK"]:
+            env_webhook = os.getenv(env_key, "").strip()
+            if env_webhook and env_webhook not in webhook_urls:
+                webhook_urls.append(env_webhook)
+        
+        if send_webhook and webhook_urls:
+            notifier = Notifier(webhook_url=webhook_urls)
             notifier.send_markdown(report_md)
         return report_md, path
     finally:

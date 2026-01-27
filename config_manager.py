@@ -40,8 +40,10 @@ def load_config(path: str = "config.json") -> dict[str, Any]:
                 _env_default("OPENROUTER_API_KEY"))
     
     def _get_webhook() -> str:
+        # 优先返回第一个非空的 webhook
         return (_env_default("REPORT_WEBHOOK_URL") or
                 _env_default("FEISHU_WEBHOOK") or
+                _env_default("KDOCS_WEBHOOK") or
                 _env_default("SLACK_WEBHOOK"))
     
     if not os.path.exists(path):
