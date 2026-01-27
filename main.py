@@ -104,7 +104,6 @@ def run_daily_job(
             webhook_urls.append(config_webhook)
         
         # 支持多个 Webhook 环境变量
-        import os
         for env_key in ["WEBHOOK_URL_2", "WEBHOOK_URL_3", "KDOCS_WEBHOOK"]:
             env_webhook = os.getenv(env_key, "").strip()
             if env_webhook and env_webhook not in webhook_urls:
