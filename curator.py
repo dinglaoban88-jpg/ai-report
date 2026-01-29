@@ -6,7 +6,7 @@ import os
 import re
 from dataclasses import asdict
 from datetime import datetime, timedelta, timezone
-from typing import List, Tuple
+from typing import List, Optional, Tuple
 
 from cleaner import deduplicate, select_top
 from fetchers import (
@@ -277,15 +277,23 @@ class Curator:
         }
 
     def enrich_with_search(self, name: str, is_github: bool = False) -> str:
-        """使用 Tavily 深度搜索获取产品信息（含产地侦探）"""
+        """
+        使用 Tavily 深度搜索获取产品信息
+        
+        重点寻找「社会认同」信号：
+        - 用户量: "1M+ users", "50k teams"
+        - 融资: "Series A", "Funding"
+        - 媒体背书: "TechCrunch", "Verge"
+        - 榜单: "No.1 on Product Hunt"
+        """
         if not name:
             return ""
         
-        # 根据产品类型构建搜索查询（包含产地信息）
+        # 根据产品类型构建搜索查询（包含热度信号）
         if is_github:
-            query = f"{name} GitHub readme features company headquarters founders location"
+            query = f"{name} GitHub stars users downloads company headquarters"
         else:
-            query = f"{name} AI tool features review company headquarters founders Chinese"
+            query = f"{name} AI tool users reviews funding TechCrunch company headquarters"
         
         # 尝试使用 Tavily
         try:
@@ -594,18 +602,24 @@ class Curator:
         return self.get_today_news()
 
     def get_weekly_gems(self) -> List[dict]:
-        cutoff = datetime.now(timezone.utc) - timedelta(days=7)
-        # Toolify 的时间窗口放宽到 30 天（因为 sitemap 日期可能不准）
-        toolify_cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+        """
+        Part 2: 获取「已验证质量」的产品（过去 5 天内的高热度产品）
+        
+        策略：让子弹飞一会儿，筛选经过发酵后脱颖而出的赢家
+        """
+        # 【时间窗口】Part 2 扩展到过去 5 天，给产品时间积累热度
+        cutoff = datetime.now(timezone.utc) - timedelta(days=5)
+        
         candidates: List[dict] = []
         sources = [
-            fetch_product_hunt_rss(limit=30),
-            fetch_toolify_sitemap(limit=50),  # 增加 Toolify 数量
+            fetch_product_hunt_rss(limit=50),  # 增加数量以便筛选高热度
+            fetch_toolify_sitemap(limit=50),
             fetch_hacker_news_ai(limit=30),
-            fetch_github_ai(limit=30),
+            fetch_github_ai(limit=50),  # 增加数量以便筛选高 Star
             fetch_taaft_timeline(limit=30),
-            fetch_futurepedia(limit=30),  # 新增 Futurepedia（应用层工具）
+            fetch_futurepedia(limit=30),
         ]
+        
         for items in sources:
             for item in items:
                 source = item.get("source", "")
@@ -613,34 +627,79 @@ class Curator:
                 if published_at and published_at.tzinfo is None:
                     published_at = published_at.replace(tzinfo=timezone.utc)
                 
-                # Toolify 特殊处理：sitemap 日期完全不可靠，不过滤日期
+                # Toolify 特殊处理：sitemap 日期不可靠
                 if source == "Toolify":
-                    pass  # 接受所有 Toolify 数据
+                    pass
                 else:
-                    # 其他来源：7 天内
+                    # 其他来源：5 天内
                     if published_at and published_at < cutoff:
                         continue
                 
                 tagline = item.get("tagline", "") or item.get("description", "")
                 if self._is_giant(item.get("name", ""), tagline):
                     continue
-                if source == "GitHub":
-                    stars = item.get("stars", 0)
-                    homepage = item.get("homepage") or ""
-                    if not homepage and stars < 200:
-                        continue
+                
+                # 【热度硬指标过滤】砍掉冷门产品
+                if not self._passes_heat_threshold(item, source):
+                    continue
+                
                 candidates.append(item)
+        
         candidates = deduplicate(candidates)
+        
+        # 排除 Part 1 已推送的产品
         part1_keys = {
             (item.get("url") or item.get("name") or "").strip().lower()
             for item in self.get_today_news()
         }
         candidates = [
-            c
-            for c in candidates
+            c for c in candidates
             if (c.get("url") or c.get("name") or "").strip().lower() not in part1_keys
         ]
+        
+        # 【按热度排序】高热度优先
+        candidates = self._sort_by_heat(candidates)
+        
         return candidates
+    
+    def _passes_heat_threshold(self, item: dict, source: str) -> bool:
+        """
+        热度硬指标过滤：砍掉冷门产品
+        
+        - Product Hunt: Upvotes > 100 (理想 > 200)
+        - GitHub: Stars > 500 或有 homepage
+        - 其他来源：默认通过
+        """
+        if source == "Product Hunt":
+            upvotes = item.get("upvotes", 0) or item.get("votes", 0)
+            # RSS 没有 upvotes，暂时放行（后续用 Tavily 验证）
+            if upvotes > 0 and upvotes < 100:
+                return False
+            return True
+        
+        if source == "GitHub":
+            stars = item.get("stars", 0)
+            homepage = item.get("homepage") or ""
+            # 必须有 500+ stars 或有官网
+            if stars < 500 and not homepage:
+                return False
+            return True
+        
+        # TAAFT/Toolify/Futurepedia/HN：默认通过
+        return True
+    
+    def _sort_by_heat(self, candidates: List[dict]) -> List[dict]:
+        """按热度排序：高热度产品排在前面"""
+        def heat_score(item: dict) -> int:
+            source = item.get("source", "")
+            if source == "Product Hunt":
+                return item.get("upvotes", 0) or item.get("votes", 0) or 500
+            if source == "GitHub":
+                return item.get("stars", 0)
+            # 其他来源给基础分
+            return 100
+        
+        return sorted(candidates, key=heat_score, reverse=True)
 
     def _fallback_reason(self, name: str, desc: str) -> str:
         """生成备用推荐语（当 LLM 失败时使用）"""
