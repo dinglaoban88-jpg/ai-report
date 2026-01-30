@@ -148,5 +148,23 @@
     "url": "https://theresanaiforthat.com/ai/timio-news/",
     "source": "TAAFT",
     "date": "2026-01-29"
+  },
+  {
+    "name": "Willow on Windows",
+    "url": "https://www.producthunt.com/products/willow-voice",
+    "source": "Product Hunt",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "synthesia",
+    "url": "https://www.toolify.ai/tool/synthesia",
+    "source": "Toolify",
+    "date": "2026-01-30"
+  },
+  {
+    "name": "Sherlocks.ai",
+    "url": "https://theresanaiforthat.com/ai/sherlocks-ai/",
+    "source": "TAAFT",
+    "date": "2026-01-30"
   }
 ]
