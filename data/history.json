@@ -220,5 +220,23 @@
     "url": "https://www.toolify.ai/tool/cody",
     "source": "Toolify",
     "date": "2026-02-01"
+  },
+  {
+    "name": "dream interpreter",
+    "url": "https://www.toolify.ai/tool/dream-interpreter",
+    "source": "Toolify",
+    "date": "2026-02-01"
+  },
+  {
+    "name": "Nourish News",
+    "url": "https://theresanaiforthat.com/ai/nourish-news/",
+    "source": "TAAFT",
+    "date": "2026-02-01"
+  },
+  {
+    "name": "NMTV",
+    "url": "https://www.producthunt.com/products/nmtv",
+    "source": "Product Hunt",
+    "date": "2026-02-01"
   }
 ]
