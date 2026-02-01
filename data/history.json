@@ -202,5 +202,23 @@
     "url": "https://www.producthunt.com/products/yepcode",
     "source": "Product Hunt",
     "date": "2026-01-31"
+  },
+  {
+    "name": "Lost Post",
+    "url": "https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day",
+    "source": "Product Hunt",
+    "date": "2026-02-01"
+  },
+  {
+    "name": "skills.sh",
+    "url": "https://www.producthunt.com/products/vercel",
+    "source": "Product Hunt",
+    "date": "2026-02-01"
+  },
+  {
+    "name": "cody",
+    "url": "https://www.toolify.ai/tool/cody",
+    "source": "Toolify",
+    "date": "2026-02-01"
   }
 ]
