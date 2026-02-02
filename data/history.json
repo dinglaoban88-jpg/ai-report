@@ -150,93 +150,21 @@
     "date": "2026-01-29"
   },
   {
-    "name": "Willow on Windows",
-    "url": "https://www.producthunt.com/products/willow-voice",
-    "source": "Product Hunt",
-    "date": "2026-01-30"
-  },
-  {
     "name": "synthesia",
     "url": "https://www.toolify.ai/tool/synthesia",
     "source": "Toolify",
-    "date": "2026-01-30"
+    "date": "2026-01-29"
+  },
+  {
+    "name": "Komo Playbook",
+    "url": "https://www.producthunt.com/products/komo-search",
+    "source": "Product Hunt",
+    "date": "2026-01-29"
   },
   {
     "name": "Sherlocks.ai",
     "url": "https://theresanaiforthat.com/ai/sherlocks-ai/",
     "source": "TAAFT",
-    "date": "2026-01-30"
-  },
-  {
-    "name": "Emra / Always on Transcription and PTT",
-    "url": "https://www.producthunt.com/products/emra",
-    "source": "Product Hunt",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "I built an AI conversation partner to practice speaking languages",
-    "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
-    "source": "Hacker News",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "piggy to",
-    "url": "https://www.toolify.ai/tool/piggy-to",
-    "source": "Toolify",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "rytr",
-    "url": "https://www.toolify.ai/tool/rytr",
-    "source": "Toolify",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "Using World Models for Consistent AI Filmmaking",
-    "url": "https://getartcraft.com/news/world-models-for-film",
-    "source": "Hacker News",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "YepCode",
-    "url": "https://www.producthunt.com/products/yepcode",
-    "source": "Product Hunt",
-    "date": "2026-01-31"
-  },
-  {
-    "name": "Lost Post",
-    "url": "https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day",
-    "source": "Product Hunt",
-    "date": "2026-02-01"
-  },
-  {
-    "name": "skills.sh",
-    "url": "https://www.producthunt.com/products/vercel",
-    "source": "Product Hunt",
-    "date": "2026-02-01"
-  },
-  {
-    "name": "cody",
-    "url": "https://www.toolify.ai/tool/cody",
-    "source": "Toolify",
-    "date": "2026-02-01"
-  },
-  {
-    "name": "dream interpreter",
-    "url": "https://www.toolify.ai/tool/dream-interpreter",
-    "source": "Toolify",
-    "date": "2026-02-01"
-  },
-  {
-    "name": "Nourish News",
-    "url": "https://theresanaiforthat.com/ai/nourish-news/",
-    "source": "TAAFT",
-    "date": "2026-02-01"
-  },
-  {
-    "name": "NMTV",
-    "url": "https://www.producthunt.com/products/nmtv",
-    "source": "Product Hunt",
-    "date": "2026-02-01"
+    "date": "2026-01-29"
   }
 ]
