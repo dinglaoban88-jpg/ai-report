@@ -202,5 +202,23 @@
     "url": "https://theresanaiforthat.com/ai/nourish-news/",
     "source": "TAAFT",
     "date": "2026-02-02"
+  },
+  {
+    "name": "rytr",
+    "url": "https://www.toolify.ai/tool/rytr",
+    "source": "Toolify",
+    "date": "2026-02-03"
+  },
+  {
+    "name": "Molthunt",
+    "url": "https://www.producthunt.com/products/molthunt",
+    "source": "Product Hunt",
+    "date": "2026-02-03"
+  },
+  {
+    "name": "TwoTimes",
+    "url": "https://theresanaiforthat.com/ai/twotimes/",
+    "source": "TAAFT",
+    "date": "2026-02-03"
   }
 ]
