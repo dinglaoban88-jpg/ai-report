@@ -220,5 +220,23 @@
     "url": "https://theresanaiforthat.com/ai/twotimes/",
     "source": "TAAFT",
     "date": "2026-02-03"
+  },
+  {
+    "name": "Portal",
+    "url": "https://www.producthunt.com/products/portal-14",
+    "source": "Product Hunt",
+    "date": "2026-02-03"
+  },
+  {
+    "name": "cody",
+    "url": "https://www.toolify.ai/tool/cody",
+    "source": "Toolify",
+    "date": "2026-02-03"
+  },
+  {
+    "name": "NewsCord",
+    "url": "https://theresanaiforthat.com/ai/newscord/",
+    "source": "TAAFT",
+    "date": "2026-02-03"
   }
 ]
