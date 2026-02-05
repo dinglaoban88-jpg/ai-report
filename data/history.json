@@ -274,5 +274,23 @@
     "url": "https://www.toolify.ai/tool/magic-studio",
     "source": "Toolify",
     "date": "2026-02-05"
+  },
+  {
+    "name": "Xcode 26.3",
+    "url": "https://www.producthunt.com/products/xcode",
+    "source": "Product Hunt",
+    "date": "2026-02-05"
+  },
+  {
+    "name": "morise ai",
+    "url": "https://www.toolify.ai/tool/morise-ai",
+    "source": "Toolify",
+    "date": "2026-02-05"
+  },
+  {
+    "name": "OneSub",
+    "url": "https://theresanaiforthat.com/ai/onesub/",
+    "source": "TAAFT",
+    "date": "2026-02-05"
   }
 ]
