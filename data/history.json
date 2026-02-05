@@ -256,5 +256,23 @@
     "url": "https://www.toolify.ai/tool/dream-interpreter",
     "source": "Toolify",
     "date": "2026-02-04"
+  },
+  {
+    "name": "Scribeist V2",
+    "url": "https://www.producthunt.com/products/scribeist",
+    "source": "Product Hunt",
+    "date": "2026-02-05"
+  },
+  {
+    "name": "NewsDeck from OneSub",
+    "url": "https://theresanaiforthat.com/ai/newsdeck-from-onesub/",
+    "source": "TAAFT",
+    "date": "2026-02-05"
+  },
+  {
+    "name": "magic studio",
+    "url": "https://www.toolify.ai/tool/magic-studio",
+    "source": "Toolify",
+    "date": "2026-02-05"
   }
 ]
