@@ -400,5 +400,23 @@
     "url": "https://www.producthunt.com/products/nativeline",
     "source": "Product Hunt",
     "date": "2026-02-08"
+  },
+  {
+    "name": "0xMassi/stik_app",
+    "url": "https://github.com/0xMassi/stik_app",
+    "source": "GitHub",
+    "date": "2026-02-09"
+  },
+  {
+    "name": "Inspector",
+    "url": "https://www.producthunt.com/products/inspector-3",
+    "source": "Product Hunt",
+    "date": "2026-02-09"
+  },
+  {
+    "name": "notion ai",
+    "url": "https://www.toolify.ai/tool/notion-ai",
+    "source": "Toolify",
+    "date": "2026-02-09"
   }
 ]
