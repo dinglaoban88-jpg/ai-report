@@ -436,5 +436,23 @@
     "url": "https://www.toolify.ai/tool/munch",
     "source": "Toolify",
     "date": "2026-02-09"
+  },
+  {
+    "name": "Apple Creator Studio",
+    "url": "https://www.producthunt.com/products/apple",
+    "source": "Product Hunt",
+    "date": "2026-02-10"
+  },
+  {
+    "name": "Agent Credit",
+    "url": "https://www.producthunt.com/products/agent-credit-credit-line-for-ai-agents",
+    "source": "Product Hunt",
+    "date": "2026-02-10"
+  },
+  {
+    "name": "codeium",
+    "url": "https://www.toolify.ai/tool/codeium",
+    "source": "Toolify",
+    "date": "2026-02-10"
   }
 ]
