@@ -472,5 +472,23 @@
     "url": "https://theresanaiforthat.com/ai/newo/",
     "source": "TAAFT",
     "date": "2026-02-11"
+  },
+  {
+    "name": "Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "source": "Hacker News",
+    "date": "2026-02-11"
+  },
+  {
+    "name": "claw.fm",
+    "url": "https://www.producthunt.com/products/claw-fm",
+    "source": "Product Hunt",
+    "date": "2026-02-11"
+  },
+  {
+    "name": "AI for News",
+    "url": "https://theresanaiforthat.com/ai/ai-for-news/",
+    "source": "TAAFT",
+    "date": "2026-02-11"
   }
 ]
