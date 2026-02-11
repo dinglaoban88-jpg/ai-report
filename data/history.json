@@ -454,5 +454,23 @@
     "url": "https://www.toolify.ai/tool/codeium",
     "source": "Toolify",
     "date": "2026-02-10"
+  },
+  {
+    "name": "riffusion",
+    "url": "https://www.toolify.ai/tool/riffusion",
+    "source": "Toolify",
+    "date": "2026-02-11"
+  },
+  {
+    "name": "Gravity Notes For Mac",
+    "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
+    "source": "Product Hunt",
+    "date": "2026-02-11"
+  },
+  {
+    "name": "Newo",
+    "url": "https://theresanaiforthat.com/ai/newo/",
+    "source": "TAAFT",
+    "date": "2026-02-11"
   }
 ]
