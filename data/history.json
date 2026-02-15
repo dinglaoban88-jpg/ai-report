@@ -580,5 +580,23 @@
     "url": "https://theresanaiforthat.com/ai/vectara/",
     "source": "TAAFT",
     "date": "2026-02-14"
+  },
+  {
+    "name": "Seedance 2.0",
+    "url": "https://www.producthunt.com/products/pixeldance-seaweed",
+    "source": "Product Hunt",
+    "date": "2026-02-15"
+  },
+  {
+    "name": "Off Grid – Run AI text, image gen, vision offline on your phone",
+    "url": "https://github.com/alichherawalla/off-grid-mobile",
+    "source": "Hacker News",
+    "date": "2026-02-15"
+  },
+  {
+    "name": "Quill - News Digest",
+    "url": "https://theresanaiforthat.com/ai/quill-news-digest/",
+    "source": "TAAFT",
+    "date": "2026-02-15"
   }
 ]
