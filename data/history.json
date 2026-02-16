@@ -634,5 +634,23 @@
     "url": "https://microgpt.boratto.ca",
     "source": "Hacker News",
     "date": "2026-02-16"
+  },
+  {
+    "name": "Meme Dealer",
+    "url": "https://www.producthunt.com/products/meme-dealer-2",
+    "source": "Product Hunt",
+    "date": "2026-02-16"
+  },
+  {
+    "name": "WCAG 2.2 AAA Toolkit – AI Skill for Accessible Web Apps",
+    "url": "https://github.com/simonplmak-cloud/wcag-aaa-web-design",
+    "source": "Hacker News",
+    "date": "2026-02-16"
+  },
+  {
+    "name": "GPT‑5.3‑Codex‑Spark",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "Product Hunt",
+    "date": "2026-02-16"
   }
 ]
