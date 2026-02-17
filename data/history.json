@@ -652,5 +652,23 @@
     "url": "https://www.producthunt.com/products/openai",
     "source": "Product Hunt",
     "date": "2026-02-16"
+  },
+  {
+    "name": "Mindweave – AI-powered personal knowledge hub with semantic search",
+    "url": "https://www.mindweave.space/",
+    "source": "Hacker News",
+    "date": "2026-02-17"
+  },
+  {
+    "name": "PenguinBot AI",
+    "url": "https://www.producthunt.com/products/penguinbot-ai",
+    "source": "Product Hunt",
+    "date": "2026-02-17"
+  },
+  {
+    "name": "Maths, CS and AI Compendium",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "source": "Hacker News",
+    "date": "2026-02-17"
   }
 ]
