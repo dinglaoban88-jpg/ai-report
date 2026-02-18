@@ -688,5 +688,23 @@
     "url": "https://darios-dilemma.up.railway.app/",
     "source": "Hacker News",
     "date": "2026-02-17"
+  },
+  {
+    "name": "Mozart for iOS",
+    "url": "https://www.producthunt.com/products/mozart-ai",
+    "source": "Product Hunt",
+    "date": "2026-02-18"
+  },
+  {
+    "name": "Figr AI",
+    "url": "https://www.producthunt.com/products/figr-design-research-simplified",
+    "source": "Product Hunt",
+    "date": "2026-02-18"
+  },
+  {
+    "name": "Continue – Source-controlled AI checks, enforceable in CI",
+    "url": "https://docs.continue.dev",
+    "source": "Hacker News",
+    "date": "2026-02-18"
   }
 ]
