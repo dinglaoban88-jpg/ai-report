@@ -706,5 +706,23 @@
     "url": "https://docs.continue.dev",
     "source": "Hacker News",
     "date": "2026-02-18"
+  },
+  {
+    "name": "doXmind",
+    "url": "https://www.producthunt.com/products/doxmind",
+    "source": "Product Hunt",
+    "date": "2026-02-18"
+  },
+  {
+    "name": "Galatea – Real personality for your AI agent",
+    "url": "https://galatea.sh",
+    "source": "Hacker News",
+    "date": "2026-02-18"
+  },
+  {
+    "name": "Subterranean",
+    "url": "https://www.producthunt.com/products/subterranean-3",
+    "source": "Product Hunt",
+    "date": "2026-02-18"
   }
 ]
