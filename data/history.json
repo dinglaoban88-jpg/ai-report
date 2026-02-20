@@ -778,5 +778,23 @@
     "url": "https://potatometer.com/",
     "source": "Hacker News",
     "date": "2026-02-20"
+  },
+  {
+    "name": "Decks For Good",
+    "url": "https://www.producthunt.com/products/decks-for-good",
+    "source": "Product Hunt",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "Feedix",
+    "url": "https://www.producthunt.com/products/feedix",
+    "source": "Product Hunt",
+    "date": "2026-02-20"
+  },
+  {
+    "name": "AI agent audited its platform, got 80% wrong, rewrote its methodology",
+    "url": "https://openseed.dev/blog/escape-hatch/",
+    "source": "Hacker News",
+    "date": "2026-02-20"
   }
 ]
