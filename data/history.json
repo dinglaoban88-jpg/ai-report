@@ -796,5 +796,23 @@
     "url": "https://openseed.dev/blog/escape-hatch/",
     "source": "Hacker News",
     "date": "2026-02-20"
+  },
+  {
+    "name": "PI",
+    "url": "https://www.producthunt.com/products/pi-link-speed-radar",
+    "source": "Product Hunt",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "Trained an LLM to predict \"What will Trump do?\"",
+    "url": "https://huggingface.co/LightningRodLabs/Trump-Forecaster",
+    "source": "Hacker News",
+    "date": "2026-02-21"
+  },
+  {
+    "name": "paradigmxyz/evmbench",
+    "url": "https://github.com/paradigmxyz/evmbench",
+    "source": "GitHub",
+    "date": "2026-02-21"
   }
 ]
