@@ -832,5 +832,23 @@
     "url": "https://github.com/hazcod/claudleak",
     "source": "GitHub",
     "date": "2026-02-21"
+  },
+  {
+    "name": "WANotifier",
+    "url": "https://www.producthunt.com/products/wanotifier",
+    "source": "Product Hunt",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Prism Videos",
+    "url": "https://www.producthunt.com/products/prism-videos",
+    "source": "Product Hunt",
+    "date": "2026-02-22"
+  },
+  {
+    "name": "Nucleus - A Sovereign Control Plane for AI Agents",
+    "url": "https://github.com/eidetic-works/mcp-server-nucleus",
+    "source": "Hacker News",
+    "date": "2026-02-22"
   }
 ]
