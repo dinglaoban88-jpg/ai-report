@@ -868,5 +868,23 @@
     "url": "https://www.producthunt.com/products/rork-app-for-ios",
     "source": "Product Hunt",
     "date": "2026-02-22"
+  },
+  {
+    "name": "Tidy",
+    "url": "https://www.producthunt.com/products/tidy-3",
+    "source": "Product Hunt",
+    "date": "2026-02-23"
+  },
+  {
+    "name": "Arcmark",
+    "url": "https://www.producthunt.com/products/arcmark",
+    "source": "Product Hunt",
+    "date": "2026-02-23"
+  },
+  {
+    "name": "A portfolio that re-architects its React DOM based on LLM intent",
+    "url": "https://pramit-mandal-ai.netlify.app/",
+    "source": "Hacker News",
+    "date": "2026-02-23"
   }
 ]
