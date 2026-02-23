@@ -886,5 +886,23 @@
     "url": "https://pramit-mandal-ai.netlify.app/",
     "source": "Hacker News",
     "date": "2026-02-23"
+  },
+  {
+    "name": "NotchPrompt",
+    "url": "https://www.producthunt.com/products/notchprompt",
+    "source": "Product Hunt",
+    "date": "2026-02-23"
+  },
+  {
+    "name": "CertNode Reflex",
+    "url": "https://www.producthunt.com/products/certnode-reflex",
+    "source": "Product Hunt",
+    "date": "2026-02-23"
+  },
+  {
+    "name": "G13u.com An automated SRE for AI apps",
+    "url": "https://g13u.com/",
+    "source": "Hacker News",
+    "date": "2026-02-23"
   }
 ]
