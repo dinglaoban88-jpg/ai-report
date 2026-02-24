@@ -904,5 +904,23 @@
     "url": "https://g13u.com/",
     "source": "Hacker News",
     "date": "2026-02-23"
+  },
+  {
+    "name": "Cuto",
+    "url": "https://www.producthunt.com/products/cuto",
+    "source": "Product Hunt",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "YAP",
+    "url": "https://www.producthunt.com/products/yap-2",
+    "source": "Product Hunt",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "TTSLab – A voice AI agent and TTS lab running in the browser via WebGPU",
+    "url": "https://ttslab.dev",
+    "source": "Hacker News",
+    "date": "2026-02-24"
   }
 ]
