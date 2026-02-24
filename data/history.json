@@ -922,5 +922,23 @@
     "url": "https://ttslab.dev",
     "source": "Hacker News",
     "date": "2026-02-24"
+  },
+  {
+    "name": "OpenHunt",
+    "url": "https://www.producthunt.com/products/openhunt",
+    "source": "Product Hunt",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "Replit Animated Videos",
+    "url": "https://www.producthunt.com/products/replit",
+    "source": "Product Hunt",
+    "date": "2026-02-24"
+  },
+  {
+    "name": "A Vaadin Algebra and Calculus Solver Built with AI Assistance",
+    "url": "https://news.ycombinator.com/item?id=47116251",
+    "source": "Hacker News",
+    "date": "2026-02-24"
   }
 ]
