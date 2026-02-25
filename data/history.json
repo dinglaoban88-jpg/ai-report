@@ -958,5 +958,23 @@
     "url": "https://github.com/28naem-del/mnemosyne",
     "source": "Hacker News",
     "date": "2026-02-25"
+  },
+  {
+    "name": "Kivicube",
+    "url": "https://www.producthunt.com/products/kivicube",
+    "source": "Product Hunt",
+    "date": "2026-02-25"
+  },
+  {
+    "name": "Radial",
+    "url": "https://www.producthunt.com/products/radial",
+    "source": "Product Hunt",
+    "date": "2026-02-25"
+  },
+  {
+    "name": "Cost per Outcome for AI Workflows",
+    "url": "https://github.com/botanu-ai/botanu-sdk-python",
+    "source": "Hacker News",
+    "date": "2026-02-25"
   }
 ]
