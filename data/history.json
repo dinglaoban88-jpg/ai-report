@@ -940,5 +940,23 @@
     "url": "https://news.ycombinator.com/item?id=47116251",
     "source": "Hacker News",
     "date": "2026-02-24"
+  },
+  {
+    "name": "Foxchat",
+    "url": "https://www.producthunt.com/products/foxchat",
+    "source": "Product Hunt",
+    "date": "2026-02-25"
+  },
+  {
+    "name": "Orchids 1.0",
+    "url": "https://www.producthunt.com/products/orchids",
+    "source": "Product Hunt",
+    "date": "2026-02-25"
+  },
+  {
+    "name": "Mnemosyne – Cognitive memory OS for AI agents (zero LLM calls)",
+    "url": "https://github.com/28naem-del/mnemosyne",
+    "source": "Hacker News",
+    "date": "2026-02-25"
   }
 ]
