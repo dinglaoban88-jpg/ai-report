@@ -1030,5 +1030,23 @@
     "url": "https://usplus.ai:443/",
     "source": "Hacker News",
     "date": "2026-02-27"
+  },
+  {
+    "name": "ChatPal",
+    "url": "https://www.producthunt.com/products/chatpal-2",
+    "source": "Product Hunt",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "I built a local AI-powered Ouija board with a fine-tuned 3B model",
+    "url": "https://github.com/SurceBeats/Planchette",
+    "source": "Hacker News",
+    "date": "2026-02-27"
+  },
+  {
+    "name": "DeltaMemory",
+    "url": "https://www.producthunt.com/products/deltamemory",
+    "source": "Product Hunt",
+    "date": "2026-02-27"
   }
 ]
