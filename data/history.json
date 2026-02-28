@@ -1048,5 +1048,23 @@
     "url": "https://www.producthunt.com/products/deltamemory",
     "source": "Product Hunt",
     "date": "2026-02-27"
+  },
+  {
+    "name": "What's Up With That?",
+    "url": "https://www.producthunt.com/products/what-s-up-with-that",
+    "source": "Product Hunt",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "I Built Smart Radio That Auto-Skips Talk and Ads by Using ML",
+    "url": "https://tunejourney.com/",
+    "source": "Hacker News",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Badge that shows how well your codebase fits in an LLM's context window",
+    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+    "source": "Hacker News",
+    "date": "2026-02-28"
   }
 ]
