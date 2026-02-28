@@ -1066,5 +1066,23 @@
     "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
     "source": "Hacker News",
     "date": "2026-02-28"
+  },
+  {
+    "name": "Perplexity Computer",
+    "url": "https://www.producthunt.com/products/perplexity-ai",
+    "source": "Product Hunt",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "whatdoiwear.run",
+    "url": "https://www.producthunt.com/products/whatdoiwear-run",
+    "source": "Product Hunt",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "SAIA – SCUMM for AI Agents",
+    "url": "https://github.com/serendip-ml/llm-saia/blob/main/docs/INTRO.md",
+    "source": "Hacker News",
+    "date": "2026-02-28"
   }
 ]
