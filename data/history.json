@@ -1120,5 +1120,23 @@
     "url": "https://mowgli.ai/",
     "source": "Hacker News",
     "date": "2026-03-01"
+  },
+  {
+    "name": "Voicr",
+    "url": "https://www.producthunt.com/products/voicr",
+    "source": "Product Hunt",
+    "date": "2026-03-02"
+  },
+  {
+    "name": "LocalRAG",
+    "url": "https://localrag.app",
+    "source": "Hacker News",
+    "date": "2026-03-02"
+  },
+  {
+    "name": "Ductwork – A Go platform for running AI agents on autopilot",
+    "url": "https://github.com/dneil5648/ductwork",
+    "source": "Hacker News",
+    "date": "2026-03-02"
   }
 ]
