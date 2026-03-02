@@ -1138,5 +1138,23 @@
     "url": "https://github.com/dneil5648/ductwork",
     "source": "Hacker News",
     "date": "2026-03-02"
+  },
+  {
+    "name": "Hearica",
+    "url": "https://www.producthunt.com/products/hearica",
+    "source": "Product Hunt",
+    "date": "2026-03-02"
+  },
+  {
+    "name": "BU",
+    "url": "https://www.producthunt.com/products/browser-use",
+    "source": "Product Hunt",
+    "date": "2026-03-02"
+  },
+  {
+    "name": "Soma, a local-first AI OS with 178 cognitive modules and P2P learning",
+    "url": "https://github.com/unimaginative-artist/SOMA",
+    "source": "Hacker News",
+    "date": "2026-03-02"
   }
 ]
