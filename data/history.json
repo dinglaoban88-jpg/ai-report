@@ -1174,5 +1174,23 @@
     "url": "https://www.producthunt.com/products/linkedin-for-ai-agents",
     "source": "Product Hunt",
     "date": "2026-03-03"
+  },
+  {
+    "name": "Rankfender",
+    "url": "https://www.producthunt.com/products/rankfender",
+    "source": "Product Hunt",
+    "date": "2026-03-03"
+  },
+  {
+    "name": "NothingHere",
+    "url": "https://www.producthunt.com/products/nothinghere-one-key-press-clean-screen",
+    "source": "Product Hunt",
+    "date": "2026-03-03"
+  },
+  {
+    "name": "Agd – a content-addressed DAG for tracking what AI agents do",
+    "url": "https://github.com/frontman-ai/agd",
+    "source": "Hacker News",
+    "date": "2026-03-03"
   }
 ]
