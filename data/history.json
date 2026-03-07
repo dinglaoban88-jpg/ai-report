@@ -1300,5 +1300,23 @@
     "url": "https://kybernis.io",
     "source": "Hacker News",
     "date": "2026-03-06"
+  },
+  {
+    "name": "Cockpit",
+    "url": "https://www.producthunt.com/products/cockpit-3",
+    "source": "Product Hunt",
+    "date": "2026-03-07"
+  },
+  {
+    "name": "Mog, a programming language for AI agents",
+    "url": "https://gist.github.com/belisarius222/203ac5edbc3306c34bf0481f451d4003",
+    "source": "Hacker News",
+    "date": "2026-03-07"
+  },
+  {
+    "name": "merill/msgraph",
+    "url": "https://github.com/merill/msgraph",
+    "source": "GitHub",
+    "date": "2026-03-07"
   }
 ]
