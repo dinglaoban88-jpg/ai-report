@@ -1318,5 +1318,23 @@
     "url": "https://github.com/merill/msgraph",
     "source": "GitHub",
     "date": "2026-03-07"
+  },
+  {
+    "name": "CoChat",
+    "url": "https://www.producthunt.com/products/cochat",
+    "source": "Product Hunt",
+    "date": "2026-03-07"
+  },
+  {
+    "name": "VolumeGlass",
+    "url": "https://www.producthunt.com/products/volume-glass",
+    "source": "Product Hunt",
+    "date": "2026-03-07"
+  },
+  {
+    "name": "LoRA gradients on Apple's Neural Engine at 2.8W",
+    "url": "https://github.com/jmanhype/ane-lora-training",
+    "source": "Hacker News",
+    "date": "2026-03-07"
   }
 ]
