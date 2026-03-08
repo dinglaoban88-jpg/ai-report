@@ -1354,5 +1354,23 @@
     "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
     "source": "Product Hunt",
     "date": "2026-03-08"
+  },
+  {
+    "name": "GetBeel",
+    "url": "https://www.producthunt.com/products/getbeel",
+    "source": "Product Hunt",
+    "date": "2026-03-08"
+  },
+  {
+    "name": "Smelt – Extract structured data from PDFs and HTML using LLM",
+    "url": "https://github.com/akdavidsson/smelt",
+    "source": "Hacker News",
+    "date": "2026-03-08"
+  },
+  {
+    "name": "Copperlane",
+    "url": "https://www.producthunt.com/products/copperlane",
+    "source": "Product Hunt",
+    "date": "2026-03-08"
   }
 ]
