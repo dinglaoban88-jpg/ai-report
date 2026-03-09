@@ -1372,5 +1372,23 @@
     "url": "https://www.producthunt.com/products/copperlane",
     "source": "Product Hunt",
     "date": "2026-03-08"
+  },
+  {
+    "name": "Saydi",
+    "url": "https://www.producthunt.com/products/saydi",
+    "source": "Product Hunt",
+    "date": "2026-03-09"
+  },
+  {
+    "name": "Cushion",
+    "url": "https://www.producthunt.com/products/cushion-4",
+    "source": "Product Hunt",
+    "date": "2026-03-09"
+  },
+  {
+    "name": "Agentcheck – Check what an AI agent can access before you run it",
+    "url": "https://github.com/Pringled/agentcheck",
+    "source": "Hacker News",
+    "date": "2026-03-09"
   }
 ]
