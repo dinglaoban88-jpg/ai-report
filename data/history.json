@@ -1390,5 +1390,23 @@
     "url": "https://github.com/Pringled/agentcheck",
     "source": "Hacker News",
     "date": "2026-03-09"
+  },
+  {
+    "name": "Pitwall F1",
+    "url": "https://www.producthunt.com/products/pitwall-f1-macos-app",
+    "source": "Product Hunt",
+    "date": "2026-03-09"
+  },
+  {
+    "name": "Vera by Cortex Research",
+    "url": "https://www.producthunt.com/products/vera-platform-by-cortex-research",
+    "source": "Product Hunt",
+    "date": "2026-03-09"
+  },
+  {
+    "name": "AvaKill – Deterministic safety firewall for AI agents (<1ms, no ML)",
+    "url": "https://github.com/log-bell/avakill",
+    "source": "Hacker News",
+    "date": "2026-03-09"
   }
 ]
