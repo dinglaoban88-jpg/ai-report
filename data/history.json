@@ -1408,5 +1408,23 @@
     "url": "https://github.com/log-bell/avakill",
     "source": "Hacker News",
     "date": "2026-03-09"
+  },
+  {
+    "name": "Wideframe",
+    "url": "https://www.producthunt.com/products/wideframe",
+    "source": "Product Hunt",
+    "date": "2026-03-10"
+  },
+  {
+    "name": "Hannah & Co",
+    "url": "https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers",
+    "source": "Product Hunt",
+    "date": "2026-03-10"
+  },
+  {
+    "name": "VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+    "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+    "source": "Hacker News",
+    "date": "2026-03-10"
   }
 ]
