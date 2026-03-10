@@ -1426,5 +1426,23 @@
     "url": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
     "source": "Hacker News",
     "date": "2026-03-10"
+  },
+  {
+    "name": "Unite Pro for macOS",
+    "url": "https://www.producthunt.com/products/unite-for-macos",
+    "source": "Product Hunt",
+    "date": "2026-03-10"
+  },
+  {
+    "name": "Finsight – A Privacy First, AI Credit Card and Bank Statement Analyzer",
+    "url": "https://github.com/AJ/FinSight",
+    "source": "Hacker News",
+    "date": "2026-03-10"
+  },
+  {
+    "name": "ChatShell – 22MB AI Agent with 9 Built-In Tools (Tauri, Not Electron)",
+    "url": "https://github.com/chatshellapp/chatshell-desktop",
+    "source": "Hacker News",
+    "date": "2026-03-10"
   }
 ]
