@@ -1444,5 +1444,23 @@
     "url": "https://github.com/chatshellapp/chatshell-desktop",
     "source": "Hacker News",
     "date": "2026-03-10"
+  },
+  {
+    "name": "On Demand Ads by beehiv",
+    "url": "https://www.producthunt.com/products/beehiiv",
+    "source": "Product Hunt",
+    "date": "2026-03-11"
+  },
+  {
+    "name": "Spine Swarm",
+    "url": "https://www.producthunt.com/products/spine-2",
+    "source": "Product Hunt",
+    "date": "2026-03-11"
+  },
+  {
+    "name": "AI agent that runs real browser workflows",
+    "url": "https://ghostd.io",
+    "source": "Hacker News",
+    "date": "2026-03-11"
   }
 ]
