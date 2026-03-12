@@ -1480,5 +1480,23 @@
     "url": "https://alphaperch.com",
     "source": "Hacker News",
     "date": "2026-03-11"
+  },
+  {
+    "name": "Cardboard",
+    "url": "https://www.producthunt.com/products/cardboard-3",
+    "source": "Product Hunt",
+    "date": "2026-03-12"
+  },
+  {
+    "name": "Mindspase",
+    "url": "https://www.producthunt.com/products/mindspase",
+    "source": "Product Hunt",
+    "date": "2026-03-12"
+  },
+  {
+    "name": "Faster, cheaper Claude Code with local semantic code search via sqlite",
+    "url": "https://www.ory.com/blog/ory-lumen-semantic-search-claude-code",
+    "source": "Hacker News",
+    "date": "2026-03-12"
   }
 ]
