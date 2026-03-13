@@ -1516,5 +1516,23 @@
     "url": "https://raccoonai.tech",
     "source": "Hacker News",
     "date": "2026-03-13"
+  },
+  {
+    "name": "Sutra",
+    "url": "https://www.producthunt.com/products/sutra-4",
+    "source": "Product Hunt",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "Slop or not – can you tell AI writing from human in everyday contexts?",
+    "url": "https://slop-or-not.space",
+    "source": "Hacker News",
+    "date": "2026-03-13"
+  },
+  {
+    "name": "lee-to/hlv",
+    "url": "https://github.com/lee-to/hlv",
+    "source": "GitHub",
+    "date": "2026-03-13"
   }
 ]
