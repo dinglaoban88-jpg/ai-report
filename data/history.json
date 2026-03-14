@@ -1552,5 +1552,23 @@
     "url": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
     "source": "Product Hunt",
     "date": "2026-03-14"
+  },
+  {
+    "name": "MascotVibe",
+    "url": "https://www.producthunt.com/products/mascotvibe",
+    "source": "Product Hunt",
+    "date": "2026-03-14"
+  },
+  {
+    "name": "Hyper",
+    "url": "https://www.producthunt.com/products/hyper-10",
+    "source": "Product Hunt",
+    "date": "2026-03-14"
+  },
+  {
+    "name": "Context Gateway – Compress agent context before it hits the LLM",
+    "url": "https://github.com/Compresr-ai/Context-Gateway",
+    "source": "Hacker News",
+    "date": "2026-03-14"
   }
 ]
