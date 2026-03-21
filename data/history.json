@@ -1642,5 +1642,23 @@
     "url": "https://edsonroteia.github.io/claude2x/",
     "source": "Hacker News",
     "date": "2026-03-16"
+  },
+  {
+    "name": "AI Skills Manager",
+    "url": "https://www.producthunt.com/products/ai-skills-manager",
+    "source": "Product Hunt",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Visdiff",
+    "url": "https://www.producthunt.com/products/visdiff",
+    "source": "Product Hunt",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "I Doubt News",
+    "url": "https://theresanaiforthat.com/ai/i-doubt-news/",
+    "source": "TAAFT",
+    "date": "2026-03-21"
   }
 ]
