@@ -1660,5 +1660,23 @@
     "url": "https://theresanaiforthat.com/ai/i-doubt-news/",
     "source": "TAAFT",
     "date": "2026-03-21"
+  },
+  {
+    "name": "ProductBridge",
+    "url": "https://www.producthunt.com/products/productbridge",
+    "source": "Product Hunt",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Agent Use Interface (AUI) – let users bring their own AI agent",
+    "url": "https://github.com/FRE-Studios/Agent-Use-Interface",
+    "source": "Hacker News",
+    "date": "2026-03-21"
+  },
+  {
+    "name": "Composer 2 by Cursor",
+    "url": "https://www.producthunt.com/products/cursor",
+    "source": "Product Hunt",
+    "date": "2026-03-21"
   }
 ]
