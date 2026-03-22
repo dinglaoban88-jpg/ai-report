@@ -1678,5 +1678,29 @@
     "url": "https://www.producthunt.com/products/cursor",
     "source": "Product Hunt",
     "date": "2026-03-21"
+  },
+  {
+    "name": "murmur",
+    "url": "https://www.producthunt.com/products/murmur-7",
+    "source": "Product Hunt",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "EchoLive – Read-it-later app that reads to you with 600 AI voices",
+    "url": "https://echolive.co/",
+    "source": "Hacker News",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "Caplo",
+    "url": "https://www.producthunt.com/products/caplo",
+    "source": "Product Hunt",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "RSS reader that scores articles 0–10 with LLM before you open them",
+    "url": "https://github.com/Tutanka01/makhalReader",
+    "source": "Hacker News",
+    "date": "2026-03-22"
   }
 ]
