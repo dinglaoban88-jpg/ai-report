@@ -1702,5 +1702,23 @@
     "url": "https://github.com/Tutanka01/makhalReader",
     "source": "Hacker News",
     "date": "2026-03-22"
+  },
+  {
+    "name": "Cursor Glass",
+    "url": "https://www.producthunt.com/products/glass-4",
+    "source": "Product Hunt",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "DataFlow",
+    "url": "https://theresanaiforthat.com/ai/dataflow/",
+    "source": "TAAFT",
+    "date": "2026-03-22"
+  },
+  {
+    "name": "Rover – turn any web interface into an AI agent with one script tag",
+    "url": "https://github.com/rtrvr-ai/rover",
+    "source": "Hacker News",
+    "date": "2026-03-22"
   }
 ]
