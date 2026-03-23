@@ -1720,5 +1720,23 @@
     "url": "https://github.com/rtrvr-ai/rover",
     "source": "Hacker News",
     "date": "2026-03-22"
+  },
+  {
+    "name": "Sanota",
+    "url": "https://www.producthunt.com/products/sanota",
+    "source": "Product Hunt",
+    "date": "2026-03-23"
+  },
+  {
+    "name": "Call Prompter",
+    "url": "https://theresanaiforthat.com/ai/call-prompter/",
+    "source": "TAAFT",
+    "date": "2026-03-23"
+  },
+  {
+    "name": "A BOINC project where AI designs and runs experiments autonomously",
+    "url": "https://axiom.heliex.net",
+    "source": "Hacker News",
+    "date": "2026-03-23"
   }
 ]
