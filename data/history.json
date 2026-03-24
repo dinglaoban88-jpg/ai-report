@@ -1756,5 +1756,23 @@
     "url": "https://www.onlybots.store/",
     "source": "Hacker News",
     "date": "2026-03-23"
+  },
+  {
+    "name": "Fastlane",
+    "url": "https://www.producthunt.com/products/fastlane-3",
+    "source": "Product Hunt",
+    "date": "2026-03-24"
+  },
+  {
+    "name": "Iris",
+    "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41",
+    "source": "Product Hunt",
+    "date": "2026-03-24"
+  },
+  {
+    "name": "Littlebird",
+    "url": "https://littlebird.ai/",
+    "source": "Hacker News",
+    "date": "2026-03-24"
   }
 ]
