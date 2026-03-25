@@ -1792,5 +1792,23 @@
     "url": "https://www.producthunt.com/products/alphaclaw-apex",
     "source": "Product Hunt",
     "date": "2026-03-24"
+  },
+  {
+    "name": "What The Duck!",
+    "url": "https://www.producthunt.com/products/what-the-duck-2",
+    "source": "Product Hunt",
+    "date": "2026-03-25"
+  },
+  {
+    "name": "Flux",
+    "url": "https://www.producthunt.com/products/replay-production-api-failures-locally",
+    "source": "Product Hunt",
+    "date": "2026-03-25"
+  },
+  {
+    "name": "Gemini can now natively embed video, so I built sub-second video search",
+    "url": "https://github.com/ssrajadh/sentrysearch",
+    "source": "Hacker News",
+    "date": "2026-03-25"
   }
 ]
