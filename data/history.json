@@ -1810,5 +1810,23 @@
     "url": "https://github.com/ssrajadh/sentrysearch",
     "source": "Hacker News",
     "date": "2026-03-25"
+  },
+  {
+    "name": "jared.so",
+    "url": "https://www.producthunt.com/products/jared-so",
+    "source": "Product Hunt",
+    "date": "2026-03-25"
+  },
+  {
+    "name": "AI Roundtable – Let 200 models debate your question",
+    "url": "https://opper.ai/ai-roundtable/",
+    "source": "Hacker News",
+    "date": "2026-03-25"
+  },
+  {
+    "name": "ProofShot – Give AI coding agents eyes to verify the UI they build",
+    "url": "https://github.com/AmElmo/proofshot",
+    "source": "Hacker News",
+    "date": "2026-03-25"
   }
 ]
