@@ -1846,5 +1846,23 @@
     "url": "https://www.producthunt.com/products/magine",
     "source": "Product Hunt",
     "date": "2026-03-26"
+  },
+  {
+    "name": "3Flow AI",
+    "url": "https://www.producthunt.com/products/3flow",
+    "source": "Product Hunt",
+    "date": "2026-03-26"
+  },
+  {
+    "name": "Verdent1.17.3",
+    "url": "https://theresanaiforthat.com/ai/verdent-ai/",
+    "source": "TAAFT",
+    "date": "2026-03-26"
+  },
+  {
+    "name": "A plain-text cognitive architecture for Claude Code",
+    "url": "https://lab.puga.com.br/cog/",
+    "source": "Hacker News",
+    "date": "2026-03-26"
   }
 ]
