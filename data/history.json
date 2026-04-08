@@ -2206,5 +2206,23 @@
     "url": "https://www.producthunt.com/products/netflix",
     "source": "Product Hunt",
     "date": "2026-04-08"
+  },
+  {
+    "name": "Cheese! OCR",
+    "url": "https://www.producthunt.com/products/cheese-ocr",
+    "source": "Product Hunt",
+    "date": "2026-04-08"
+  },
+  {
+    "name": "CrewCue",
+    "url": "https://www.producthunt.com/products/crewcue",
+    "source": "Product Hunt",
+    "date": "2026-04-08"
+  },
+  {
+    "name": "Hippo, biologically inspired memory for AI agents",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "source": "Hacker News",
+    "date": "2026-04-08"
   }
 ]
