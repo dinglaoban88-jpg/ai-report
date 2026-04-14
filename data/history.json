@@ -2404,5 +2404,23 @@
     "url": "https://www.toolify.ai/tool/kyugo](https://www.toolify.ai/tool/kyugo)",
     "source": "Toolify",
     "date": "2026-04-13"
+  },
+  {
+    "name": "GDL – I built an AI-powered invention engine",
+    "url": "https://groundeddiscoverylabs.com/",
+    "source": "Hacker News",
+    "date": "2026-04-14"
+  },
+  {
+    "name": "Vekta",
+    "url": "https://www.producthunt.com/products/vekta",
+    "source": "Product Hunt",
+    "date": "2026-04-14"
+  },
+  {
+    "name": "Lmscan – Detect AI text and fingerprint which LLM wrote it (zero deps)",
+    "url": "https://github.com/stef41/lmscan",
+    "source": "Hacker News",
+    "date": "2026-04-14"
   }
 ]
