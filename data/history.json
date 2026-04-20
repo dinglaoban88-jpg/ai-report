@@ -2620,5 +2620,23 @@
     "url": "https://www.toolify.ai/tool/comment-explorer](https://www.toolify.ai/tool/comment-explorer)",
     "source": "Toolify",
     "date": "2026-04-19"
+  },
+  {
+    "name": "Verdent 2.0",
+    "url": "https://www.producthunt.com/products/verdent-deck",
+    "source": "Product Hunt",
+    "date": "2026-04-20"
+  },
+  {
+    "name": "A privacy-first, local-LLM note app for iOS (Google Keep alternative)",
+    "url": "https://github.com/moeen-mahmud/remen",
+    "source": "Hacker News",
+    "date": "2026-04-20"
+  },
+  {
+    "name": "Tell",
+    "url": "https://www.producthunt.com/products/tell-2",
+    "source": "Product Hunt",
+    "date": "2026-04-20"
   }
 ]
