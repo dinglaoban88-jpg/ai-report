@@ -2746,5 +2746,23 @@
     "url": "https://www.trainlyai.com/audit",
     "source": "Hacker News",
     "date": "2026-04-23"
+  },
+  {
+    "name": "ConsoleMini",
+    "url": "https://www.producthunt.com/products/consolemini",
+    "source": "Product Hunt",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "Agent Brain Trust, customisable expert panels for AI agents",
+    "url": "https://github.com/bahulneel/agent-brain-trust",
+    "source": "Hacker News",
+    "date": "2026-04-23"
+  },
+  {
+    "name": "riverscn/intro-agentic-ai",
+    "url": "https://github.com/riverscn/intro-agentic-ai",
+    "source": "GitHub",
+    "date": "2026-04-23"
   }
 ]
