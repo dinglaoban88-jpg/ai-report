@@ -2794,5 +2794,23 @@
     "url": "https://www.producthunt.com/products/magicpatterns",
     "source": "Product Hunt",
     "date": "2026-04-24"
+  },
+  {
+    "name": "Haiker",
+    "url": "https://www.producthunt.com/products/haiker",
+    "source": "Product Hunt",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Browser Harness – Gives LLM freedom to complete any browser task",
+    "url": "https://github.com/browser-use/browser-harness",
+    "source": "Hacker News",
+    "date": "2026-04-25"
+  },
+  {
+    "name": "Ask Product Hunt AI",
+    "url": "https://www.producthunt.com/products/producthunt",
+    "source": "Product Hunt",
+    "date": "2026-04-25"
   }
 ]
