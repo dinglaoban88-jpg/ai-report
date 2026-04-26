@@ -2848,5 +2848,23 @@
     "url": "https://realsmile.online",
     "source": "Hacker News",
     "date": "2026-04-26"
+  },
+  {
+    "name": "MiMo-V2.5 Voice",
+    "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
+    "source": "Product Hunt",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News",
+    "date": "2026-04-26"
+  },
+  {
+    "name": "CodeCanary",
+    "url": "https://www.producthunt.com/products/codecanary",
+    "source": "Product Hunt",
+    "date": "2026-04-26"
   }
 ]
