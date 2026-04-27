@@ -2866,5 +2866,23 @@
     "url": "https://www.producthunt.com/products/codecanary",
     "source": "Product Hunt",
     "date": "2026-04-26"
+  },
+  {
+    "name": "Pica",
+    "url": "https://www.producthunt.com/products/pica",
+    "source": "Product Hunt",
+    "date": "2026-04-27"
+  },
+  {
+    "name": "AgentSwarms – free hands-on playground to learn agentic AI, no setup",
+    "url": "https://agentswarms.fyi/",
+    "source": "Hacker News",
+    "date": "2026-04-27"
+  },
+  {
+    "name": "AI memory with biological decay (52% recall)",
+    "url": "https://github.com/sachitrafa/YourMemory",
+    "source": "Hacker News",
+    "date": "2026-04-27"
   }
 ]
