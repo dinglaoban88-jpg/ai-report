@@ -2902,5 +2902,23 @@
     "url": "https://www.producthunt.com/products/lifeos-6",
     "source": "Product Hunt",
     "date": "2026-04-27"
+  },
+  {
+    "name": "bbostaice/axi-front-design-skill",
+    "url": "https://github.com/bbostaice/axi-front-design-skill",
+    "source": "GitHub",
+    "date": "2026-04-28"
+  },
+  {
+    "name": "Atech",
+    "url": "https://www.producthunt.com/products/atech",
+    "source": "Product Hunt",
+    "date": "2026-04-28"
+  },
+  {
+    "name": "LLM-wiki – One command Karpathy's wiki with QMD search for Claude/Codex",
+    "url": "https://github.com/ivankuznetsov/llm-wiki",
+    "source": "Hacker News",
+    "date": "2026-04-28"
   }
 ]
