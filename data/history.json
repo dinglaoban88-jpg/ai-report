@@ -2956,5 +2956,23 @@
     "url": "https://www.producthunt.com/products/imbue-7",
     "source": "Product Hunt",
     "date": "2026-04-29"
+  },
+  {
+    "name": "Lovable mobile app",
+    "url": "https://www.producthunt.com/products/lovable",
+    "source": "Product Hunt",
+    "date": "2026-04-29"
+  },
+  {
+    "name": "WUPHF by Nex.ai",
+    "url": "https://www.producthunt.com/products/wuphf-2",
+    "source": "Product Hunt",
+    "date": "2026-04-29"
+  },
+  {
+    "name": "VoiceGoat – A vulnerable voice agent for practicing LLM attacks",
+    "url": "https://github.com/redcaller/voice-goat",
+    "source": "Hacker News",
+    "date": "2026-04-29"
   }
 ]
