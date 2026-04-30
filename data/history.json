@@ -2974,5 +2974,23 @@
     "url": "https://github.com/redcaller/voice-goat",
     "source": "Hacker News",
     "date": "2026-04-29"
+  },
+  {
+    "name": "Snapr",
+    "url": "https://www.producthunt.com/products/snapr-5",
+    "source": "Product Hunt",
+    "date": "2026-04-30"
+  },
+  {
+    "name": "PrePrompt – rewrites vague prompts before they reach the LLM",
+    "url": "https://preprompt.org/",
+    "source": "Hacker News",
+    "date": "2026-04-30"
+  },
+  {
+    "name": "AI Skills Leaderboard. What's your score?",
+    "url": "https://aisa.to",
+    "source": "Hacker News",
+    "date": "2026-04-30"
   }
 ]
