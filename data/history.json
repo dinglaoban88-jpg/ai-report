@@ -3028,5 +3028,23 @@
     "url": "https://prxhub.com",
     "source": "Hacker News",
     "date": "2026-05-01"
+  },
+  {
+    "name": "Basedash Dashboard Agent",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "date": "2026-05-01"
+  },
+  {
+    "name": "Tabstack",
+    "url": "https://www.producthunt.com/products/tabstack",
+    "source": "Product Hunt",
+    "date": "2026-05-01"
+  },
+  {
+    "name": "Gate – AI workers handle dev tickets in a visual workspace",
+    "url": "https://soliddark.net/gate",
+    "source": "Hacker News",
+    "date": "2026-05-01"
   }
 ]
