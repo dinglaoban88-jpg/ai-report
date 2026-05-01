@@ -3010,5 +3010,23 @@
     "url": "https://assisted-by.dev/",
     "source": "Hacker News",
     "date": "2026-04-30"
+  },
+  {
+    "name": "Wonder",
+    "url": "https://www.producthunt.com/products/wonder-public-alpha",
+    "source": "Product Hunt",
+    "date": "2026-05-01"
+  },
+  {
+    "name": "Hera Launch",
+    "url": "https://www.producthunt.com/products/hera-6",
+    "source": "Product Hunt",
+    "date": "2026-05-01"
+  },
+  {
+    "name": "Prxhub – open registry so AI agents stop re-running the same research",
+    "url": "https://prxhub.com",
+    "source": "Hacker News",
+    "date": "2026-05-01"
   }
 ]
