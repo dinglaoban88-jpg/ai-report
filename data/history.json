@@ -3064,5 +3064,23 @@
     "url": "https://fusion.adam.new/install",
     "source": "Hacker News",
     "date": "2026-05-02"
+  },
+  {
+    "name": "ScreenVeil",
+    "url": "https://www.producthunt.com/products/screenveil",
+    "source": "Product Hunt",
+    "date": "2026-05-02"
+  },
+  {
+    "name": "CipherLock",
+    "url": "https://www.producthunt.com/products/cipherlock",
+    "source": "Product Hunt",
+    "date": "2026-05-02"
+  },
+  {
+    "name": "Aide-memory – persistent memory for AI coding agents and teams",
+    "url": "https://www.aide-memory.dev/blog/launch",
+    "source": "Hacker News",
+    "date": "2026-05-02"
   }
 ]
