@@ -3100,5 +3100,23 @@
     "url": "https://mljar.com/",
     "source": "Hacker News",
     "date": "2026-05-03"
+  },
+  {
+    "name": "Ghosted",
+    "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+    "source": "Product Hunt",
+    "date": "2026-05-03"
+  },
+  {
+    "name": "Ara",
+    "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+    "source": "Product Hunt",
+    "date": "2026-05-03"
+  },
+  {
+    "name": "mrslimslim/gpt-image-canvas",
+    "url": "https://github.com/mrslimslim/gpt-image-canvas",
+    "source": "GitHub",
+    "date": "2026-05-03"
   }
 ]
