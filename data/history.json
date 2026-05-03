@@ -3082,5 +3082,23 @@
     "url": "https://www.aide-memory.dev/blog/launch",
     "source": "Hacker News",
     "date": "2026-05-02"
+  },
+  {
+    "name": "Feather",
+    "url": "https://www.producthunt.com/products/feather-18",
+    "source": "Product Hunt",
+    "date": "2026-05-03"
+  },
+  {
+    "name": "Breaks",
+    "url": "https://www.producthunt.com/products/breaks",
+    "source": "Product Hunt",
+    "date": "2026-05-03"
+  },
+  {
+    "name": "Mljar Studio – local AI data analyst that saves analysis as notebooks",
+    "url": "https://mljar.com/",
+    "source": "Hacker News",
+    "date": "2026-05-03"
   }
 ]
