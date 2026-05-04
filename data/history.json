@@ -3136,5 +3136,23 @@
     "url": "https://flopmap.com",
     "source": "Hacker News",
     "date": "2026-05-04"
+  },
+  {
+    "name": "Adoptly",
+    "url": "https://www.producthunt.com/products/adoptly",
+    "source": "Product Hunt",
+    "date": "2026-05-04"
+  },
+  {
+    "name": "Marx Finance",
+    "url": "https://www.producthunt.com/products/marx-finance",
+    "source": "Product Hunt",
+    "date": "2026-05-04"
+  },
+  {
+    "name": "Enoch – Control Plane for Autonomous AI Research",
+    "url": "https://github.com/alias8818/enoch-agentic-research-system",
+    "source": "Hacker News",
+    "date": "2026-05-04"
   }
 ]
