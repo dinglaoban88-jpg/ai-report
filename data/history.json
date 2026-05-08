@@ -3268,5 +3268,23 @@
     "url": "https://www.producthunt.com/products/yc-company-explorer",
     "source": "Product Hunt",
     "date": "2026-05-08"
+  },
+  {
+    "name": "GetThis",
+    "url": "https://www.producthunt.com/products/getthis",
+    "source": "Product Hunt",
+    "date": "2026-05-08"
+  },
+  {
+    "name": "AgentBrain – local-first Markdown/JSON vault for AI agents",
+    "url": "https://agentbrain.heroka.xyz",
+    "source": "Hacker News",
+    "date": "2026-05-08"
+  },
+  {
+    "name": "Upskill – skill to find skills for your AI agents",
+    "url": "https://github.com/Autoloops/upskill",
+    "source": "Hacker News",
+    "date": "2026-05-08"
   }
 ]
