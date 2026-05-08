@@ -3250,5 +3250,23 @@
     "url": "https://aditu.tech/keyterm-filtering",
     "source": "Hacker News",
     "date": "2026-05-07"
+  },
+  {
+    "name": "Bookstoread.ai",
+    "url": "https://bookstoread.ai",
+    "source": "Hacker News",
+    "date": "2026-05-08"
+  },
+  {
+    "name": "ClearMesh",
+    "url": "https://www.producthunt.com/products/clearmesh",
+    "source": "Product Hunt",
+    "date": "2026-05-08"
+  },
+  {
+    "name": "ExploreYC",
+    "url": "https://www.producthunt.com/products/yc-company-explorer",
+    "source": "Product Hunt",
+    "date": "2026-05-08"
   }
 ]
