@@ -3286,5 +3286,23 @@
     "url": "https://github.com/Autoloops/upskill",
     "source": "Hacker News",
     "date": "2026-05-08"
+  },
+  {
+    "name": "Noteweave",
+    "url": "https://www.producthunt.com/products/noteweave",
+    "source": "Product Hunt",
+    "date": "2026-05-09"
+  },
+  {
+    "name": "Illospace",
+    "url": "https://www.producthunt.com/products/illospace",
+    "source": "Product Hunt",
+    "date": "2026-05-09"
+  },
+  {
+    "name": "UltraCompress – first mathematically lossless 5-bit LLM compression",
+    "url": "https://github.com/sipsalabs/ultracompress",
+    "source": "Hacker News",
+    "date": "2026-05-09"
   }
 ]
