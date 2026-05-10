@@ -3322,5 +3322,23 @@
     "url": "https://www.nanocorp.so",
     "source": "Hacker News",
     "date": "2026-05-09"
+  },
+  {
+    "name": "Glowix",
+    "url": "https://www.producthunt.com/products/glowix",
+    "source": "Product Hunt",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "Staff.rip",
+    "url": "https://www.producthunt.com/products/staff-rip",
+    "source": "Product Hunt",
+    "date": "2026-05-10"
+  },
+  {
+    "name": "AnamDB – An AI-native, differentiable Datalog engine written in Rust",
+    "url": "https://github.com/jam5991/anam",
+    "source": "Hacker News",
+    "date": "2026-05-10"
   }
 ]
