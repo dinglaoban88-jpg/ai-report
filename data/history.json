@@ -3376,5 +3376,23 @@
     "url": "https://wuphf.team",
     "source": "Hacker News",
     "date": "2026-05-11"
+  },
+  {
+    "name": "MarkUp",
+    "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
+    "source": "Product Hunt",
+    "date": "2026-05-11"
+  },
+  {
+    "name": "InvestorFinder",
+    "url": "https://www.producthunt.com/products/investorfinder",
+    "source": "Product Hunt",
+    "date": "2026-05-11"
+  },
+  {
+    "name": "Akmon, a Rust AI coding agent for regulated engineering",
+    "url": "https://github.com/radotsvetkov/akmon",
+    "source": "Hacker News",
+    "date": "2026-05-11"
   }
 ]
