@@ -3394,5 +3394,23 @@
     "url": "https://github.com/radotsvetkov/akmon",
     "source": "Hacker News",
     "date": "2026-05-11"
+  },
+  {
+    "name": "Suprbox",
+    "url": "https://www.producthunt.com/products/suprbox",
+    "source": "Product Hunt",
+    "date": "2026-05-12"
+  },
+  {
+    "name": "Web Speed",
+    "url": "https://www.producthunt.com/products/web-speed",
+    "source": "Product Hunt",
+    "date": "2026-05-12"
+  },
+  {
+    "name": "n8n like workflows for AI agents that control a real VM",
+    "url": "https://github.com/aadya940/orbit-ui",
+    "source": "Hacker News",
+    "date": "2026-05-12"
   }
 ]
