@@ -3478,5 +3478,23 @@
     "url": "https://www.producthunt.com/products/tweaklify",
     "source": "Product Hunt",
     "date": "2026-05-14"
+  },
+  {
+    "name": "Plate",
+    "url": "https://www.producthunt.com/products/plate-4",
+    "source": "Product Hunt",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Tago",
+    "url": "https://www.producthunt.com/products/tago-by-savhfresh",
+    "source": "Product Hunt",
+    "date": "2026-05-14"
+  },
+  {
+    "name": "Gox – Strict static analyzer for Go designed for LLM-written code",
+    "url": "https://github.com/mentasystems/gox",
+    "source": "Hacker News",
+    "date": "2026-05-14"
   }
 ]
