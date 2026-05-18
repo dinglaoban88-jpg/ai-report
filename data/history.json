@@ -3616,5 +3616,23 @@
     "url": "https://www.swarmwright.com/",
     "source": "Hacker News",
     "date": "2026-05-18"
+  },
+  {
+    "name": "Agent-Sin",
+    "url": "https://www.producthunt.com/products/agent-sin",
+    "source": "Product Hunt",
+    "date": "2026-05-18"
+  },
+  {
+    "name": "mia",
+    "url": "https://www.producthunt.com/products/mia-8",
+    "source": "Product Hunt",
+    "date": "2026-05-18"
+  },
+  {
+    "name": "Revos – architecture checks for AI-generated code",
+    "url": "https://github.com/mattykry/revos",
+    "source": "Hacker News",
+    "date": "2026-05-18"
   }
 ]
