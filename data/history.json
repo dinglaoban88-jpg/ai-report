@@ -3598,5 +3598,23 @@
     "url": "https://lightningtrack.io/login",
     "source": "Hacker News",
     "date": "2026-05-17"
+  },
+  {
+    "name": "Vivago Video Agent",
+    "url": "https://www.producthunt.com/products/viva",
+    "source": "Product Hunt",
+    "date": "2026-05-18"
+  },
+  {
+    "name": "Mobius",
+    "url": "https://www.producthunt.com/products/mobius-3",
+    "source": "Product Hunt",
+    "date": "2026-05-18"
+  },
+  {
+    "name": "SwarmWright, structured multi-agent AI defined in markdowns",
+    "url": "https://www.swarmwright.com/",
+    "source": "Hacker News",
+    "date": "2026-05-18"
   }
 ]
