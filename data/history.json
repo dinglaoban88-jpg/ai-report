@@ -3634,5 +3634,23 @@
     "url": "https://github.com/mattykry/revos",
     "source": "Hacker News",
     "date": "2026-05-18"
+  },
+  {
+    "name": "Voiser AI",
+    "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+    "source": "Product Hunt",
+    "date": "2026-05-19"
+  },
+  {
+    "name": "Dataset for AI training and fine tuning",
+    "url": "https://neurvance.com/",
+    "source": "Hacker News",
+    "date": "2026-05-19"
+  },
+  {
+    "name": "ForgeAILab/forge",
+    "url": "https://github.com/ForgeAILab/forge",
+    "source": "GitHub",
+    "date": "2026-05-19"
   }
 ]
