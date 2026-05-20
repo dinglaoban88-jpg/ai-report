@@ -3664,5 +3664,23 @@
     "url": "https://www.producthunt.com/products/polarity-2",
     "source": "Product Hunt",
     "date": "2026-05-19"
+  },
+  {
+    "name": "Lyricly",
+    "url": "https://www.producthunt.com/products/lyricly-your-music-everywhere-on-mac",
+    "source": "Product Hunt",
+    "date": "2026-05-20"
+  },
+  {
+    "name": "Chert",
+    "url": "https://www.producthunt.com/products/chert",
+    "source": "Product Hunt",
+    "date": "2026-05-20"
+  },
+  {
+    "name": "Id-agent – Token efficient UUID alternative for AI agents",
+    "url": "https://github.com/vostride/id-agent",
+    "source": "Hacker News",
+    "date": "2026-05-20"
   }
 ]
