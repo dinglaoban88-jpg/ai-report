@@ -3700,5 +3700,23 @@
     "url": "https://ratemyaisite.com/explore",
     "source": "Hacker News",
     "date": "2026-05-20"
+  },
+  {
+    "name": "Tether",
+    "url": "https://www.producthunt.com/products/tether-10",
+    "source": "Product Hunt",
+    "date": "2026-05-21"
+  },
+  {
+    "name": "Owlish",
+    "url": "https://www.producthunt.com/products/owlish",
+    "source": "Product Hunt",
+    "date": "2026-05-21"
+  },
+  {
+    "name": "I built a native macOS Markdown viewer 100% with AI coding agents",
+    "url": "https://github.com/rajatarya/mdviewer",
+    "source": "Hacker News",
+    "date": "2026-05-21"
   }
 ]
