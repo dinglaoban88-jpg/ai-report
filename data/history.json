@@ -3736,5 +3736,23 @@
     "url": "https://github.com/BuffaloTechRider/Autodidact",
     "source": "Hacker News",
     "date": "2026-05-21"
+  },
+  {
+    "name": "AI Audiobook Narrator",
+    "url": "https://warblize.com/",
+    "source": "Hacker News",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Ente Locker",
+    "url": "https://www.producthunt.com/products/ente-locker",
+    "source": "Product Hunt",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Physics AI – Visualizing physics problems with step-by-step derivations",
+    "url": "https://physicsai.chat",
+    "source": "Hacker News",
+    "date": "2026-05-22"
   }
 ]
