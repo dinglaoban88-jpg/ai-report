@@ -3754,5 +3754,23 @@
     "url": "https://physicsai.chat",
     "source": "Hacker News",
     "date": "2026-05-22"
+  },
+  {
+    "name": "An LLM that's better at writing",
+    "url": "https://dft.rosmine.ai/",
+    "source": "Hacker News",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "InstaVM",
+    "url": "https://www.producthunt.com/products/instavm",
+    "source": "Product Hunt",
+    "date": "2026-05-22"
+  },
+  {
+    "name": "1337-Artificial-Intelligence/HackAI-Challenges-2026",
+    "url": "https://github.com/1337-Artificial-Intelligence/HackAI-Challenges-2026",
+    "source": "GitHub",
+    "date": "2026-05-22"
   }
 ]
