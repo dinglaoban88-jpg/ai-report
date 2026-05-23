@@ -3790,5 +3790,23 @@
     "url": "https://atom.plumocracy.com",
     "source": "Hacker News",
     "date": "2026-05-23"
+  },
+  {
+    "name": "Nugget AI",
+    "url": "https://www.producthunt.com/products/nugget-ai",
+    "source": "Product Hunt",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "iPromise",
+    "url": "https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work",
+    "source": "Product Hunt",
+    "date": "2026-05-23"
+  },
+  {
+    "name": "Datapoint AI",
+    "url": "https://trydatapoint.com",
+    "source": "Hacker News",
+    "date": "2026-05-23"
   }
 ]
