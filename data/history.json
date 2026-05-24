@@ -3808,5 +3808,23 @@
     "url": "https://trydatapoint.com",
     "source": "Hacker News",
     "date": "2026-05-23"
+  },
+  {
+    "name": "note.md",
+    "url": "https://www.producthunt.com/products/note-md",
+    "source": "Product Hunt",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "BonzAI",
+    "url": "https://www.bonzai.sh/",
+    "source": "Hacker News",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "AgentLens",
+    "url": "https://agentlens-demo-omega.vercel.app",
+    "source": "Hacker News",
+    "date": "2026-05-24"
   }
 ]
