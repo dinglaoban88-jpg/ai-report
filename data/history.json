@@ -3826,5 +3826,23 @@
     "url": "https://agentlens-demo-omega.vercel.app",
     "source": "Hacker News",
     "date": "2026-05-24"
+  },
+  {
+    "name": "Spantop",
+    "url": "https://www.producthunt.com/products/spantop",
+    "source": "Product Hunt",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "CoreMem – Portable context for AI agents",
+    "url": "https://coremem.app",
+    "source": "Hacker News",
+    "date": "2026-05-24"
+  },
+  {
+    "name": "Command A+",
+    "url": "https://www.producthunt.com/products/cohere-2",
+    "source": "Product Hunt",
+    "date": "2026-05-24"
   }
 ]
