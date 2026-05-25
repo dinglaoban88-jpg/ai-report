@@ -3844,5 +3844,23 @@
     "url": "https://www.producthunt.com/products/cohere-2",
     "source": "Product Hunt",
     "date": "2026-05-24"
+  },
+  {
+    "name": "DockFlow",
+    "url": "https://www.producthunt.com/products/dockflow",
+    "source": "Product Hunt",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "Local note engine uses LLM to organize notes into a knowledge graph",
+    "url": "https://github.com/AlexWasHeree/NoteCast",
+    "source": "Hacker News",
+    "date": "2026-05-25"
+  },
+  {
+    "name": "ModelHub",
+    "url": "https://www.producthunt.com/products/modelhub",
+    "source": "Product Hunt",
+    "date": "2026-05-25"
   }
 ]
