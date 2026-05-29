@@ -3976,5 +3976,23 @@
     "url": "https://www.producthunt.com/products/aviquill",
     "source": "Product Hunt",
     "date": "2026-05-28"
+  },
+  {
+    "name": "Sublern",
+    "url": "https://www.producthunt.com/products/sublern",
+    "source": "Product Hunt",
+    "date": "2026-05-29"
+  },
+  {
+    "name": "Marked 3",
+    "url": "https://www.producthunt.com/products/marked-2",
+    "source": "Product Hunt",
+    "date": "2026-05-29"
+  },
+  {
+    "name": "Teleport-env – <500ms stateful rollbacks for AI agents via CRIU",
+    "url": "https://github.com/JaiCode08/teleport-env",
+    "source": "Hacker News",
+    "date": "2026-05-29"
   }
 ]
