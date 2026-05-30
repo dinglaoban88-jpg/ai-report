@@ -4030,5 +4030,23 @@
     "url": "https://github.com/vaddisrinivas/tab-council",
     "source": "Hacker News",
     "date": "2026-05-30"
+  },
+  {
+    "name": "TrackNotch",
+    "url": "https://www.producthunt.com/products/tracknotch",
+    "source": "Product Hunt",
+    "date": "2026-05-30"
+  },
+  {
+    "name": "PromptLayer",
+    "url": "https://www.producthunt.com/products/promptlayer-2",
+    "source": "Product Hunt",
+    "date": "2026-05-30"
+  },
+  {
+    "name": "Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "source": "Hacker News",
+    "date": "2026-05-30"
   }
 ]
