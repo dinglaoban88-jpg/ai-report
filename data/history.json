@@ -4048,5 +4048,23 @@
     "url": "https://github.com/jmaczan/tiny-vllm",
     "source": "Hacker News",
     "date": "2026-05-30"
+  },
+  {
+    "name": "Drafted",
+    "url": "https://www.producthunt.com/products/drafted-4",
+    "source": "Product Hunt",
+    "date": "2026-05-31"
+  },
+  {
+    "name": "Step 3.7 Flash",
+    "url": "https://www.producthunt.com/products/step-3-5-flash",
+    "source": "Product Hunt",
+    "date": "2026-05-31"
+  },
+  {
+    "name": "Open Envelope – an open schema for defining AI agent teams",
+    "url": "https://openenvelope.org/docs/schema/",
+    "source": "Hacker News",
+    "date": "2026-05-31"
   }
 ]
