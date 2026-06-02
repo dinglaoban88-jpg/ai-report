@@ -4132,5 +4132,23 @@
     "url": "https://github.com/StarTrail-org/PixelRAG",
     "source": "GitHub",
     "date": "2026-06-02"
+  },
+  {
+    "name": "Typeahead",
+    "url": "https://www.producthunt.com/products/typeahead",
+    "source": "Product Hunt",
+    "date": "2026-06-02"
+  },
+  {
+    "name": "Tokenwise",
+    "url": "https://www.producthunt.com/products/tokenwise",
+    "source": "Product Hunt",
+    "date": "2026-06-02"
+  },
+  {
+    "name": "OWASP Agent Memory Guard – Stop AI Agent Memory Poisoning",
+    "url": "https://github.com/OWASP/www-project-agent-memory-guard",
+    "source": "Hacker News",
+    "date": "2026-06-02"
   }
 ]
