@@ -4150,5 +4150,23 @@
     "url": "https://github.com/OWASP/www-project-agent-memory-guard",
     "source": "Hacker News",
     "date": "2026-06-02"
+  },
+  {
+    "name": "HumToBeats",
+    "url": "https://www.producthunt.com/products/humtobeats",
+    "source": "Product Hunt",
+    "date": "2026-06-03"
+  },
+  {
+    "name": "Branda",
+    "url": "https://www.producthunt.com/products/branda",
+    "source": "Product Hunt",
+    "date": "2026-06-03"
+  },
+  {
+    "name": "MetaBrain – A local document memory for AI agents",
+    "url": "https://metabrain.eu",
+    "source": "Hacker News",
+    "date": "2026-06-03"
   }
 ]
