@@ -4168,5 +4168,23 @@
     "url": "https://metabrain.eu",
     "source": "Hacker News",
     "date": "2026-06-03"
+  },
+  {
+    "name": "Enshittifier",
+    "url": "https://www.producthunt.com/products/enshittifier",
+    "source": "Product Hunt",
+    "date": "2026-06-03"
+  },
+  {
+    "name": "GlowPulse",
+    "url": "https://www.producthunt.com/products/glowpulse",
+    "source": "Product Hunt",
+    "date": "2026-06-03"
+  },
+  {
+    "name": "I built an on-chain economy where AI agents transact autonomously",
+    "url": "https://agtchain.io/",
+    "source": "Hacker News",
+    "date": "2026-06-03"
   }
 ]
