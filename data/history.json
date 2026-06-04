@@ -4186,5 +4186,23 @@
     "url": "https://agtchain.io/",
     "source": "Hacker News",
     "date": "2026-06-03"
+  },
+  {
+    "name": "Hermes Desktop",
+    "url": "https://www.producthunt.com/products/hermes-4",
+    "source": "Product Hunt",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "LocalSheets, a single-file spreadsheet with a local-only AI panel",
+    "url": "https://github.com/zohaibus/localsheets",
+    "source": "Hacker News",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Handler",
+    "url": "https://www.producthunt.com/products/handler",
+    "source": "Product Hunt",
+    "date": "2026-06-04"
   }
 ]
