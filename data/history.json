@@ -4204,5 +4204,23 @@
     "url": "https://www.producthunt.com/products/handler",
     "source": "Product Hunt",
     "date": "2026-06-04"
+  },
+  {
+    "name": "superlog",
+    "url": "https://www.producthunt.com/products/superlog",
+    "source": "Product Hunt",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "Viveka: filter LLM output against a Lean-verified Advaita Vedanta model",
+    "url": "https://github.com/SpecStudio-net/Viveka",
+    "source": "Hacker News",
+    "date": "2026-06-04"
+  },
+  {
+    "name": "agent0ai/dox",
+    "url": "https://github.com/agent0ai/dox",
+    "source": "GitHub",
+    "date": "2026-06-04"
   }
 ]
