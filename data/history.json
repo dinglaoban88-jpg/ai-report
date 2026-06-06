@@ -4276,5 +4276,23 @@
     "url": "https://thepiece.app/en",
     "source": "Hacker News",
     "date": "2026-06-06"
+  },
+  {
+    "name": "Agent Mode on Arena",
+    "url": "https://www.producthunt.com/products/arena-5",
+    "source": "Product Hunt",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "AgentKitten: Swift package for provider-agnostic AI agents",
+    "url": "https://github.com/fbeeper/agentkitten",
+    "source": "Hacker News",
+    "date": "2026-06-06"
+  },
+  {
+    "name": "Agent Browser Shield",
+    "url": "https://www.producthunt.com/products/agent-browser-shield",
+    "source": "Product Hunt",
+    "date": "2026-06-06"
   }
 ]
