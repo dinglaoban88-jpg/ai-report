@@ -4336,5 +4336,23 @@
     "url": "https://persist.chat",
     "source": "Hacker News",
     "date": "2026-06-08"
+  },
+  {
+    "name": "Clarafy",
+    "url": "https://www.producthunt.com/products/clarafy",
+    "source": "Product Hunt",
+    "date": "2026-06-08"
+  },
+  {
+    "name": "Split Ninja",
+    "url": "https://www.producthunt.com/products/split-ninja",
+    "source": "Product Hunt",
+    "date": "2026-06-08"
+  },
+  {
+    "name": "CodeSage Pro – an AI copilot that reads the problem on the page",
+    "url": "https://chromewebstore.google.com/detail/codesage-pro-â-universal/cbkkghdedpjamcicmnfpihehmgjemmhi",
+    "source": "Hacker News",
+    "date": "2026-06-08"
   }
 ]
