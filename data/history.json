@@ -4372,5 +4372,17 @@
     "url": "https://www.cc.dev/",
     "source": "Hacker News",
     "date": "2026-06-09"
+  },
+  {
+    "name": "AI Pair Programmer for Emacs",
+    "url": "https://github.com/jaketothepast/codetutor",
+    "source": "Hacker News",
+    "date": "2026-06-09"
+  },
+  {
+    "name": "engineering-os/engineering-os",
+    "url": "https://github.com/engineering-os/engineering-os",
+    "source": "GitHub",
+    "date": "2026-06-09"
   }
 ]
