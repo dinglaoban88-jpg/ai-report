@@ -4384,5 +4384,23 @@
     "url": "https://github.com/engineering-os/engineering-os",
     "source": "GitHub",
     "date": "2026-06-09"
+  },
+  {
+    "name": "Uiverse Design",
+    "url": "https://www.producthunt.com/products/uiverse-io",
+    "source": "Product Hunt",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "agmsg",
+    "url": "https://www.producthunt.com/products/agmsg",
+    "source": "Product Hunt",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "I applied Lyapunov stability theory to detect when LLM agents spiral",
+    "url": "https://github.com/vishal-dehurdle/state-harness",
+    "source": "Hacker News",
+    "date": "2026-06-10"
   }
 ]
