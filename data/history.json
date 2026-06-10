@@ -4402,5 +4402,23 @@
     "url": "https://github.com/vishal-dehurdle/state-harness",
     "source": "Hacker News",
     "date": "2026-06-10"
+  },
+  {
+    "name": "BooBar",
+    "url": "https://www.producthunt.com/products/boobar",
+    "source": "Product Hunt",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "Solarch",
+    "url": "https://www.producthunt.com/products/solarch",
+    "source": "Product Hunt",
+    "date": "2026-06-10"
+  },
+  {
+    "name": "AutoGPU – AI designs a real 7nm GPU, from Verilog to GDSII",
+    "url": "https://github.com/npip99/autogpu",
+    "source": "Hacker News",
+    "date": "2026-06-10"
   }
 ]
