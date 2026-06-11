@@ -4438,5 +4438,23 @@
     "url": "https://www.producthunt.com/products/hero-9",
     "source": "Product Hunt",
     "date": "2026-06-11"
+  },
+  {
+    "name": "fort",
+    "url": "https://www.producthunt.com/products/fort-3",
+    "source": "Product Hunt",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "BlenderHunt",
+    "url": "https://www.producthunt.com/products/blenderhunt",
+    "source": "Product Hunt",
+    "date": "2026-06-11"
+  },
+  {
+    "name": "A curated collection of simple datasets for machine learning",
+    "url": "https://github.com/pplonski/datasets-for-start",
+    "source": "Hacker News",
+    "date": "2026-06-11"
   }
 ]
