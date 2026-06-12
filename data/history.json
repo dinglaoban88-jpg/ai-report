@@ -4456,5 +4456,23 @@
     "url": "https://github.com/pplonski/datasets-for-start",
     "source": "Hacker News",
     "date": "2026-06-11"
+  },
+  {
+    "name": "liyupi/zhuanglema",
+    "url": "https://github.com/liyupi/zhuanglema",
+    "source": "GitHub",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Easybilling",
+    "url": "https://www.producthunt.com/products/easybilling",
+    "source": "Product Hunt",
+    "date": "2026-06-12"
+  },
+  {
+    "name": "Terminal Mode by Even Realities",
+    "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
+    "source": "Product Hunt",
+    "date": "2026-06-12"
   }
 ]
