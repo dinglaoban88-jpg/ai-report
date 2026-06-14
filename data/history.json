@@ -4540,5 +4540,23 @@
     "url": "https://www.realitykernel.dev/",
     "source": "Hacker News",
     "date": "2026-06-14"
+  },
+  {
+    "name": "CueBuddy",
+    "url": "https://www.producthunt.com/products/cuebuddy",
+    "source": "Product Hunt",
+    "date": "2026-06-14"
+  },
+  {
+    "name": "Keep",
+    "url": "https://www.producthunt.com/products/keep-8",
+    "source": "Product Hunt",
+    "date": "2026-06-14"
+  },
+  {
+    "name": "AgentNexus – coordinate LLM agents by service boundary, not role",
+    "url": "https://github.com/dugubuyan/agent-nexus",
+    "source": "Hacker News",
+    "date": "2026-06-14"
   }
 ]
