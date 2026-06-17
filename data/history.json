@@ -4630,5 +4630,23 @@
     "url": "https://www.producthunt.com/products/reignat",
     "source": "Product Hunt",
     "date": "2026-06-16"
+  },
+  {
+    "name": "Ledgerly",
+    "url": "https://www.producthunt.com/products/github-224",
+    "source": "Product Hunt",
+    "date": "2026-06-17"
+  },
+  {
+    "name": "Fluxmail",
+    "url": "https://www.producthunt.com/products/fluxmail",
+    "source": "Product Hunt",
+    "date": "2026-06-17"
+  },
+  {
+    "name": "Tamper-evident audit trail for AI coding agent activity",
+    "url": "https://github.com/Constellation-Labs/gate-oc-audit",
+    "source": "Hacker News",
+    "date": "2026-06-17"
   }
 ]
