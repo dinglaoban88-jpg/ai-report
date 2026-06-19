@@ -4720,5 +4720,23 @@
     "url": "https://ferrix.ai/",
     "source": "Hacker News",
     "date": "2026-06-19"
+  },
+  {
+    "name": "Adapt",
+    "url": "https://www.producthunt.com/products/adapt-3",
+    "source": "Product Hunt",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "Buddy",
+    "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
+    "source": "Product Hunt",
+    "date": "2026-06-19"
+  },
+  {
+    "name": "High-Res Neural Cellular Automata",
+    "url": "https://cells2pixels.github.io/",
+    "source": "Hacker News",
+    "date": "2026-06-19"
   }
 ]
