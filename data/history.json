@@ -4738,5 +4738,23 @@
     "url": "https://cells2pixels.github.io/",
     "source": "Hacker News",
     "date": "2026-06-19"
+  },
+  {
+    "name": "just f***ing send it",
+    "url": "https://www.producthunt.com/products/just-f-ing-send-it",
+    "source": "Product Hunt",
+    "date": "2026-06-20"
+  },
+  {
+    "name": "Wolffish – An OS personal desktop AI agent",
+    "url": "https://www.wolffi.sh/",
+    "source": "Hacker News",
+    "date": "2026-06-20"
+  },
+  {
+    "name": "NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "source": "Hacker News",
+    "date": "2026-06-20"
   }
 ]
