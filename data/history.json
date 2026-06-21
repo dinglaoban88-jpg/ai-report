@@ -4774,5 +4774,23 @@
     "url": "https://www.producthunt.com/products/darkmoon",
     "source": "Product Hunt",
     "date": "2026-06-20"
+  },
+  {
+    "name": "Pixlie",
+    "url": "https://www.producthunt.com/products/pixlie",
+    "source": "Product Hunt",
+    "date": "2026-06-21"
+  },
+  {
+    "name": "pumaDB",
+    "url": "https://www.producthunt.com/products/pumadb",
+    "source": "Product Hunt",
+    "date": "2026-06-21"
+  },
+  {
+    "name": "FERNme – agent memory that updates with ~zero LLM calls",
+    "url": "https://github.com/mirkofr/FERNme",
+    "source": "Hacker News",
+    "date": "2026-06-21"
   }
 ]
