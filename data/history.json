@@ -4810,5 +4810,23 @@
     "url": "https://quantarena.xyz/",
     "source": "Hacker News",
     "date": "2026-06-21"
+  },
+  {
+    "name": "Atomic Mail Agentic",
+    "url": "https://www.producthunt.com/products/atomic-mail-agentic",
+    "source": "Product Hunt",
+    "date": "2026-06-22"
+  },
+  {
+    "name": "I built an 11-LLM consensus engine to detect AI hallucination",
+    "url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+    "source": "Hacker News",
+    "date": "2026-06-22"
+  },
+  {
+    "name": "wellwelwel/blue-spec",
+    "url": "https://github.com/wellwelwel/blue-spec",
+    "source": "GitHub",
+    "date": "2026-06-22"
   }
 ]
