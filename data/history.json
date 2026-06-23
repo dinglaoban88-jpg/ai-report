@@ -4846,5 +4846,23 @@
     "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
     "source": "Product Hunt",
     "date": "2026-06-22"
+  },
+  {
+    "name": "OnBrand by SlideSpeak",
+    "url": "https://www.producthunt.com/products/onbrand-2",
+    "source": "Product Hunt",
+    "date": "2026-06-23"
+  },
+  {
+    "name": "Typevia live LaTeX editing with AI assistance",
+    "url": "https://www.typevia.com/",
+    "source": "Hacker News",
+    "date": "2026-06-23"
+  },
+  {
+    "name": "Selector Forge – browser extension for AI-generated resilient selectors",
+    "url": "https://github.com/Intuned/selector-forge",
+    "source": "Hacker News",
+    "date": "2026-06-23"
   }
 ]
