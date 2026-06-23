@@ -4864,5 +4864,23 @@
     "url": "https://github.com/Intuned/selector-forge",
     "source": "Hacker News",
     "date": "2026-06-23"
+  },
+  {
+    "name": "MediaSeg",
+    "url": "https://www.producthunt.com/products/mediaseg",
+    "source": "Product Hunt",
+    "date": "2026-06-23"
+  },
+  {
+    "name": "Selector Forge",
+    "url": "https://www.producthunt.com/products/selector-forge",
+    "source": "Product Hunt",
+    "date": "2026-06-23"
+  },
+  {
+    "name": "A knowledge engine that keeps up with AI driven code",
+    "url": "https://codesummary.io/",
+    "source": "Hacker News",
+    "date": "2026-06-23"
   }
 ]
