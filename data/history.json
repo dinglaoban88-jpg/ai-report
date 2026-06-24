@@ -4900,5 +4900,23 @@
     "url": "https://atomprophet.io/tools/cascade/",
     "source": "Hacker News",
     "date": "2026-06-24"
+  },
+  {
+    "name": "Tufte",
+    "url": "https://www.producthunt.com/products/tufte-markdown-graphs",
+    "source": "Product Hunt",
+    "date": "2026-06-24"
+  },
+  {
+    "name": "Neural Particle Automata",
+    "url": "https://selforg-npa.github.io/",
+    "source": "Hacker News",
+    "date": "2026-06-24"
+  },
+  {
+    "name": "Bluerails Discovery",
+    "url": "https://www.producthunt.com/products/bluerails-discovery",
+    "source": "Product Hunt",
+    "date": "2026-06-24"
   }
 ]
