@@ -4972,5 +4972,23 @@
     "url": "https://github.com/gabert/ontocortex",
     "source": "Hacker News",
     "date": "2026-06-26"
+  },
+  {
+    "name": "Zaro",
+    "url": "https://www.producthunt.com/products/zaro",
+    "source": "Product Hunt",
+    "date": "2026-06-26"
+  },
+  {
+    "name": "eBook to audiobook narration with realistic AI voices",
+    "url": "https://ebookaloud.com",
+    "source": "Hacker News",
+    "date": "2026-06-26"
+  },
+  {
+    "name": "Dspyer – self-correcting, optimizable LLM steps for DSPy and LangGraph",
+    "url": "https://github.com/theramkm/dspyer",
+    "source": "Hacker News",
+    "date": "2026-06-26"
   }
 ]
