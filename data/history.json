@@ -4954,5 +4954,23 @@
     "url": "https://github.com/NotASithLord/peerd",
     "source": "Hacker News",
     "date": "2026-06-25"
+  },
+  {
+    "name": "Figma Motion",
+    "url": "https://www.producthunt.com/products/figma",
+    "source": "Product Hunt",
+    "date": "2026-06-26"
+  },
+  {
+    "name": "Papermark Agents",
+    "url": "https://www.producthunt.com/products/papermark-2",
+    "source": "Product Hunt",
+    "date": "2026-06-26"
+  },
+  {
+    "name": "An LLM agent that emits typed intent",
+    "url": "https://github.com/gabert/ontocortex",
+    "source": "Hacker News",
+    "date": "2026-06-26"
   }
 ]
