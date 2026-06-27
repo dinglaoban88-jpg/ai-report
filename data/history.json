@@ -5008,5 +5008,23 @@
     "url": "https://fuckui.com",
     "source": "Hacker News",
     "date": "2026-06-27"
+  },
+  {
+    "name": "Blop",
+    "url": "https://www.producthunt.com/products/blop-ai",
+    "source": "Product Hunt",
+    "date": "2026-06-27"
+  },
+  {
+    "name": "Grass 2.0",
+    "url": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+    "source": "Product Hunt",
+    "date": "2026-06-27"
+  },
+  {
+    "name": "Orchid – Local-first record and replay for AI agent debugging",
+    "url": "https://github.com/mario-guerra/orchid-trace",
+    "source": "Hacker News",
+    "date": "2026-06-27"
   }
 ]
