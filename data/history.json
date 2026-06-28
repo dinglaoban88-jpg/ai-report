@@ -5026,5 +5026,23 @@
     "url": "https://github.com/mario-guerra/orchid-trace",
     "source": "Hacker News",
     "date": "2026-06-27"
+  },
+  {
+    "name": "Nada",
+    "url": "https://www.producthunt.com/products/nada-2",
+    "source": "Product Hunt",
+    "date": "2026-06-28"
+  },
+  {
+    "name": "Supra Player",
+    "url": "https://www.producthunt.com/products/supra-player",
+    "source": "Product Hunt",
+    "date": "2026-06-28"
+  },
+  {
+    "name": "KV-psi, using Linux PSI to to trim an LLM KV cache",
+    "url": "https://github.com/infiniteregrets/kv-psi",
+    "source": "Hacker News",
+    "date": "2026-06-28"
   }
 ]
