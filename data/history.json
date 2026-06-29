@@ -5080,5 +5080,23 @@
     "url": "https://www.producthunt.com/products/dotient",
     "source": "Product Hunt",
     "date": "2026-06-29"
+  },
+  {
+    "name": "Lyto",
+    "url": "https://www.producthunt.com/products/lyto",
+    "source": "Product Hunt",
+    "date": "2026-06-29"
+  },
+  {
+    "name": "Genspark Design",
+    "url": "https://www.producthunt.com/products/genspark-design",
+    "source": "Product Hunt",
+    "date": "2026-06-29"
+  },
+  {
+    "name": "role-model, a router for hybrid local/cloud AI",
+    "url": "https://github.com/try-works/role-model",
+    "source": "Hacker News",
+    "date": "2026-06-29"
   }
 ]
