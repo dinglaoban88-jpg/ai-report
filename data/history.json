@@ -5116,5 +5116,23 @@
     "url": "https://www.producthunt.com/products/crest-3",
     "source": "Product Hunt",
     "date": "2026-06-30"
+  },
+  {
+    "name": "Klorn",
+    "url": "https://github.com/k08200/klorn",
+    "source": "Hacker News",
+    "date": "2026-06-30"
+  },
+  {
+    "name": "PMB",
+    "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+    "source": "Product Hunt",
+    "date": "2026-06-30"
+  },
+  {
+    "name": "Uselink – publish and collaborate on AI-generated HTML",
+    "url": "https://uselink.app:443/",
+    "source": "Hacker News",
+    "date": "2026-06-30"
   }
 ]
