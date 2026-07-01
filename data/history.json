@@ -5152,5 +5152,23 @@
     "url": "https://www.producthunt.com/products/bilt-me",
     "source": "Product Hunt",
     "date": "2026-07-01"
+  },
+  {
+    "name": "Justwrite",
+    "url": "https://www.producthunt.com/products/justwrite",
+    "source": "Product Hunt",
+    "date": "2026-07-01"
+  },
+  {
+    "name": "NodePad – AI agent on a canvas instead of a linear chat",
+    "url": "https://node-pad.com/",
+    "source": "Hacker News",
+    "date": "2026-07-01"
+  },
+  {
+    "name": "Don't ask if devs cheat with AI, test if they're good with it",
+    "url": "https://tryevaluator.com",
+    "source": "Hacker News",
+    "date": "2026-07-01"
   }
 ]
