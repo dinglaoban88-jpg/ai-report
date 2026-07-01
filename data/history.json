@@ -5134,5 +5134,23 @@
     "url": "https://uselink.app:443/",
     "source": "Hacker News",
     "date": "2026-06-30"
+  },
+  {
+    "name": "Tinkerfont",
+    "url": "https://www.producthunt.com/products/tinkerfont",
+    "source": "Product Hunt",
+    "date": "2026-07-01"
+  },
+  {
+    "name": "I built an AI agent to yell at me about my ADHD",
+    "url": "https://0xff.nu/hex/",
+    "source": "Hacker News",
+    "date": "2026-07-01"
+  },
+  {
+    "name": "Bilt.me - Figma",
+    "url": "https://www.producthunt.com/products/bilt-me",
+    "source": "Product Hunt",
+    "date": "2026-07-01"
   }
 ]
