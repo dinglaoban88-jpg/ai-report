@@ -5188,5 +5188,23 @@
     "url": "https://www.orgonaut.co/tools/agentic-reorg-simulator/",
     "source": "Hacker News",
     "date": "2026-07-02"
+  },
+  {
+    "name": "Ciaro Pro",
+    "url": "https://www.producthunt.com/products/ciaro-pro",
+    "source": "Product Hunt",
+    "date": "2026-07-02"
+  },
+  {
+    "name": "AMA2",
+    "url": "https://ama2.me/",
+    "source": "Hacker News",
+    "date": "2026-07-02"
+  },
+  {
+    "name": "a Rust OS kernel built for LLM inference",
+    "url": "https://github.com/Kanchisaw03/axiom",
+    "source": "Hacker News",
+    "date": "2026-07-02"
   }
 ]
