@@ -5170,5 +5170,23 @@
     "url": "https://tryevaluator.com",
     "source": "Hacker News",
     "date": "2026-07-01"
+  },
+  {
+    "name": "Aruki",
+    "url": "https://www.producthunt.com/products/aruki-japanese-walking",
+    "source": "Product Hunt",
+    "date": "2026-07-02"
+  },
+  {
+    "name": "Bamboo",
+    "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+    "source": "Product Hunt",
+    "date": "2026-07-02"
+  },
+  {
+    "name": "Simulate what AI agents do to an engineering org (no signup)",
+    "url": "https://www.orgonaut.co/tools/agentic-reorg-simulator/",
+    "source": "Hacker News",
+    "date": "2026-07-02"
   }
 ]
