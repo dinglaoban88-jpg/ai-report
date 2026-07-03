@@ -5206,5 +5206,23 @@
     "url": "https://github.com/Kanchisaw03/axiom",
     "source": "Hacker News",
     "date": "2026-07-02"
+  },
+  {
+    "name": "scritty",
+    "url": "https://www.producthunt.com/products/scritty",
+    "source": "Product Hunt",
+    "date": "2026-07-03"
+  },
+  {
+    "name": "Solaris",
+    "url": "https://www.producthunt.com/products/build-club",
+    "source": "Product Hunt",
+    "date": "2026-07-03"
+  },
+  {
+    "name": "Mirrors – test AI agent changes by replaying production traces",
+    "url": "https://www.runmirrors.com/",
+    "source": "Hacker News",
+    "date": "2026-07-03"
   }
 ]
