@@ -5224,5 +5224,23 @@
     "url": "https://www.runmirrors.com/",
     "source": "Hacker News",
     "date": "2026-07-03"
+  },
+  {
+    "name": "Needle",
+    "url": "https://www.producthunt.com/products/needle-3",
+    "source": "Product Hunt",
+    "date": "2026-07-03"
+  },
+  {
+    "name": "Banger Mail",
+    "url": "https://www.producthunt.com/products/banger-mail",
+    "source": "Product Hunt",
+    "date": "2026-07-03"
+  },
+  {
+    "name": "Declaw Arena – a CTF-style challenge to break an AI agent in a microVM",
+    "url": "https://declaw.ai/arena",
+    "source": "Hacker News",
+    "date": "2026-07-03"
   }
 ]
