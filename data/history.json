@@ -5260,5 +5260,23 @@
     "url": "https://www.noworkflows.dev/",
     "source": "Hacker News",
     "date": "2026-07-04"
+  },
+  {
+    "name": "Glaze by Raycast",
+    "url": "https://www.producthunt.com/products/glaze-4",
+    "source": "Product Hunt",
+    "date": "2026-07-04"
+  },
+  {
+    "name": "Sharing LLM Artifacts with your team",
+    "url": "https://github.com/danielpang/dropway",
+    "source": "Hacker News",
+    "date": "2026-07-04"
+  },
+  {
+    "name": "Retrace",
+    "url": "https://www.producthunt.com/products/retrace-2",
+    "source": "Product Hunt",
+    "date": "2026-07-04"
   }
 ]
