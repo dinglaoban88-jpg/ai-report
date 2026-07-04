@@ -5242,5 +5242,23 @@
     "url": "https://declaw.ai/arena",
     "source": "Hacker News",
     "date": "2026-07-03"
+  },
+  {
+    "name": "nxt",
+    "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list",
+    "source": "Product Hunt",
+    "date": "2026-07-04"
+  },
+  {
+    "name": "Goals from Loops",
+    "url": "https://www.producthunt.com/products/loops",
+    "source": "Product Hunt",
+    "date": "2026-07-04"
+  },
+  {
+    "name": "Durable AI agents without the workflow engine",
+    "url": "https://www.noworkflows.dev/",
+    "source": "Hacker News",
+    "date": "2026-07-04"
   }
 ]
