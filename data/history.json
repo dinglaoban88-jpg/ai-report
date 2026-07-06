@@ -5314,5 +5314,23 @@
     "url": "https://www.wifebench.com/",
     "source": "Hacker News",
     "date": "2026-07-05"
+  },
+  {
+    "name": "CircleChat",
+    "url": "https://www.producthunt.com/products/circlechat",
+    "source": "Product Hunt",
+    "date": "2026-07-06"
+  },
+  {
+    "name": "DocsAlot",
+    "url": "https://www.producthunt.com/products/docsalot-2",
+    "source": "Product Hunt",
+    "date": "2026-07-06"
+  },
+  {
+    "name": "Tracking how much of the HN front page is AI-generated",
+    "url": "https://www.salahadawi.com/hacker-news-ai-detector",
+    "source": "Hacker News",
+    "date": "2026-07-06"
   }
 ]
