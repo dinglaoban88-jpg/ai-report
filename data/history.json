@@ -5350,5 +5350,23 @@
     "url": "https://github.com/timoncool/prompt-warrior",
     "source": "GitHub",
     "date": "2026-07-06"
+  },
+  {
+    "name": "Stanley Studio",
+    "url": "https://www.producthunt.com/products/stanley-studio",
+    "source": "Product Hunt",
+    "date": "2026-07-07"
+  },
+  {
+    "name": "AirKaren",
+    "url": "https://www.producthunt.com/products/airkaren",
+    "source": "Product Hunt",
+    "date": "2026-07-07"
+  },
+  {
+    "name": "LLM Thought Visualization",
+    "url": "https://github.com/ninjahawk/Subtext",
+    "source": "Hacker News",
+    "date": "2026-07-07"
   }
 ]
