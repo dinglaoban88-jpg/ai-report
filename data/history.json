@@ -5404,5 +5404,23 @@
     "url": "https://github.com/mazen160/backlog",
     "source": "Hacker News",
     "date": "2026-07-08"
+  },
+  {
+    "name": "Glideo",
+    "url": "https://www.producthunt.com/products/glideo",
+    "source": "Product Hunt",
+    "date": "2026-07-08"
+  },
+  {
+    "name": "Zoho Tables",
+    "url": "https://www.producthunt.com/products/zoho-tables",
+    "source": "Product Hunt",
+    "date": "2026-07-08"
+  },
+  {
+    "name": "Tessera – an AI agent that refuses to answer without evidence",
+    "url": "https://github.com/robert-vetter/tessera",
+    "source": "Hacker News",
+    "date": "2026-07-08"
   }
 ]
