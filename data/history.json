@@ -5386,5 +5386,23 @@
     "url": "https://www.producthunt.com/products/nixmac",
     "source": "Product Hunt",
     "date": "2026-07-07"
+  },
+  {
+    "name": "Kadoink AI",
+    "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
+    "source": "Product Hunt",
+    "date": "2026-07-08"
+  },
+  {
+    "name": "AI Emaily",
+    "url": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
+    "source": "Product Hunt",
+    "date": "2026-07-08"
+  },
+  {
+    "name": "Backlog – tasks and contexts manager for AI coding agents",
+    "url": "https://github.com/mazen160/backlog",
+    "source": "Hacker News",
+    "date": "2026-07-08"
   }
 ]
