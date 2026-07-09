@@ -5422,5 +5422,23 @@
     "url": "https://github.com/robert-vetter/tessera",
     "source": "Hacker News",
     "date": "2026-07-08"
+  },
+  {
+    "name": "Compendium",
+    "url": "https://www.producthunt.com/products/compendium-2",
+    "source": "Product Hunt",
+    "date": "2026-07-09"
+  },
+  {
+    "name": "Notion Agents iOS app",
+    "url": "https://www.producthunt.com/products/notion-agents-ios-app",
+    "source": "Product Hunt",
+    "date": "2026-07-09"
+  },
+  {
+    "name": "Microsoft releases Flint, a visualization language for AI agents",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "source": "Hacker News",
+    "date": "2026-07-09"
   }
 ]
