@@ -5476,5 +5476,23 @@
     "url": "https://lucid.earthpilot.ai",
     "source": "Hacker News",
     "date": "2026-07-10"
+  },
+  {
+    "name": "Tasks.txt",
+    "url": "https://www.producthunt.com/products/tasks-txt",
+    "source": "Product Hunt",
+    "date": "2026-07-10"
+  },
+  {
+    "name": "Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+    "url": "https://github.com/Rodiun/frugon",
+    "source": "Hacker News",
+    "date": "2026-07-10"
+  },
+  {
+    "name": "Constellation Gate AI",
+    "url": "https://www.producthunt.com/products/gate-ai-2",
+    "source": "Product Hunt",
+    "date": "2026-07-10"
   }
 ]
