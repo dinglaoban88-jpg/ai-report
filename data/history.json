@@ -5458,5 +5458,23 @@
     "url": "https://www.tryagentscore.com",
     "source": "Hacker News",
     "date": "2026-07-09"
+  },
+  {
+    "name": "Lispr",
+    "url": "https://www.producthunt.com/products/lispr",
+    "source": "Product Hunt",
+    "date": "2026-07-10"
+  },
+  {
+    "name": "ARKAD Wallet",
+    "url": "https://www.producthunt.com/products/arkad-wallet",
+    "source": "Product Hunt",
+    "date": "2026-07-10"
+  },
+  {
+    "name": "I built a web tool to see and edit what an AI thinks before it answers",
+    "url": "https://lucid.earthpilot.ai",
+    "source": "Hacker News",
+    "date": "2026-07-10"
   }
 ]
