@@ -5512,5 +5512,23 @@
     "url": "https://www.fadingmaize.com",
     "source": "Hacker News",
     "date": "2026-07-11"
+  },
+  {
+    "name": "Mispher",
+    "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+    "source": "Product Hunt",
+    "date": "2026-07-11"
+  },
+  {
+    "name": "PlugThis",
+    "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+    "source": "Product Hunt",
+    "date": "2026-07-11"
+  },
+  {
+    "name": "Drag boxes around and watch a layout engine infer the Flexbox (no AI)",
+    "url": "https://wpconverters.com/playground/",
+    "source": "Hacker News",
+    "date": "2026-07-11"
   }
 ]
