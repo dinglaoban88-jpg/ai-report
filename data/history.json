@@ -5554,5 +5554,23 @@
     "url": "https://www.30secondsofknowledge.com",
     "source": "Hacker News",
     "date": "2026-07-12"
+  },
+  {
+    "name": "Knowledge Atlas by Fini",
+    "url": "https://www.producthunt.com/products/fini-2",
+    "source": "Product Hunt",
+    "date": "2026-07-12"
+  },
+  {
+    "name": "On-Device Field Extraction by Veryfi",
+    "url": "https://www.producthunt.com/products/veryfi",
+    "source": "Product Hunt",
+    "date": "2026-07-12"
+  },
+  {
+    "name": "calesthio/generative-media-skills",
+    "url": "https://github.com/calesthio/generative-media-skills",
+    "source": "GitHub",
+    "date": "2026-07-12"
   }
 ]
