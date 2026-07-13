@@ -5572,5 +5572,23 @@
     "url": "https://github.com/calesthio/generative-media-skills",
     "source": "GitHub",
     "date": "2026-07-12"
+  },
+  {
+    "name": "NanoKVM-Go",
+    "url": "https://www.producthunt.com/products/nanokvm-go",
+    "source": "Product Hunt",
+    "date": "2026-07-13"
+  },
+  {
+    "name": "AgentIndexed – a curated AI agent directory, no pay-to-play rankings",
+    "url": "https://agentindexed.com/",
+    "source": "Hacker News",
+    "date": "2026-07-13"
+  },
+  {
+    "name": "SayItDev LLM and Speech capabilities with 0 dependencies and no models",
+    "url": "https://github.com/innovatorved/sayitdev",
+    "source": "Hacker News",
+    "date": "2026-07-13"
   }
 ]
