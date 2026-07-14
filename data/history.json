@@ -5614,5 +5614,23 @@
     "url": "https://www.producthunt.com/products/agentkey",
     "source": "Product Hunt",
     "date": "2026-07-14"
+  },
+  {
+    "name": "Playground",
+    "url": "https://www.producthunt.com/products/nyx-4",
+    "source": "Product Hunt",
+    "date": "2026-07-14"
+  },
+  {
+    "name": "Jacquard, a programming language for AI-written, human-reviewed code",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "source": "Hacker News",
+    "date": "2026-07-14"
+  },
+  {
+    "name": "TailMux",
+    "url": "https://www.producthunt.com/products/tailmux",
+    "source": "Product Hunt",
+    "date": "2026-07-14"
   }
 ]
