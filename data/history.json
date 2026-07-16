@@ -5686,5 +5686,23 @@
     "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
     "source": "Product Hunt",
     "date": "2026-07-16"
+  },
+  {
+    "name": "Review by Eddie AI",
+    "url": "https://www.producthunt.com/products/eddie-your-ai-video-editor",
+    "source": "Product Hunt",
+    "date": "2026-07-16"
+  },
+  {
+    "name": "CodeNearby 2.0",
+    "url": "https://www.producthunt.com/products/codenearby",
+    "source": "Product Hunt",
+    "date": "2026-07-16"
+  },
+  {
+    "name": "Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "url": "https://github.com/projectargus-cc/libargus.cc",
+    "source": "Hacker News",
+    "date": "2026-07-16"
   }
 ]
