@@ -5668,5 +5668,23 @@
     "url": "https://www.oodle.ai/product/agent-observability",
     "source": "Hacker News",
     "date": "2026-07-15"
+  },
+  {
+    "name": "Jam-Pod",
+    "url": "https://www.producthunt.com/products/jam-pod",
+    "source": "Product Hunt",
+    "date": "2026-07-16"
+  },
+  {
+    "name": "Painterly – Turn pictures into digital paintings without generative AI",
+    "url": "https://github.com/jbunke/painterly",
+    "source": "Hacker News",
+    "date": "2026-07-16"
+  },
+  {
+    "name": "EQK",
+    "url": "https://www.producthunt.com/products/eqk-eq-with-ai",
+    "source": "Product Hunt",
+    "date": "2026-07-16"
   }
 ]
