@@ -6172,5 +6172,23 @@
     "url": "https://marbleos.com/demo",
     "source": "Hacker News",
     "date": "2026-08-01"
+  },
+  {
+    "name": "Cleanlist AI",
+    "url": "https://www.producthunt.com/products/cleanlist-ai",
+    "source": "Product Hunt",
+    "date": "2026-08-01"
+  },
+  {
+    "name": "Poth Labs",
+    "url": "https://www.producthunt.com/products/poth-labs",
+    "source": "Product Hunt",
+    "date": "2026-08-01"
+  },
+  {
+    "name": "Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "source": "Hacker News",
+    "date": "2026-08-01"
   }
 ]
