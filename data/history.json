@@ -6400,5 +6400,23 @@
     "url": "https://www.phototovideo-ai.net/",
     "source": "Hacker News",
     "date": "2026-08-07"
+  },
+  {
+    "name": "Merge",
+    "url": "https://www.producthunt.com/products/merge-5",
+    "source": "Product Hunt",
+    "date": "2026-08-08"
+  },
+  {
+    "name": "Zaivern Code – a Rust cockpit for parallel AI coding agents",
+    "url": "https://github.com/tacyan/zaivern-code",
+    "source": "Hacker News",
+    "date": "2026-08-08"
+  },
+  {
+    "name": "AdrianBesleaga/AIFA",
+    "url": "https://github.com/AdrianBesleaga/AIFA",
+    "source": "GitHub",
+    "date": "2026-08-08"
   }
 ]
