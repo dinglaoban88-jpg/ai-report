@@ -6436,5 +6436,23 @@
     "url": "https://akintu.ai",
     "source": "Hacker News",
     "date": "2026-08-08"
+  },
+  {
+    "name": "DataBlur",
+    "url": "https://www.producthunt.com/products/datablur",
+    "source": "Product Hunt",
+    "date": "2026-08-09"
+  },
+  {
+    "name": "StepShot",
+    "url": "https://www.producthunt.com/products/stepshot-2",
+    "source": "Product Hunt",
+    "date": "2026-08-09"
+  },
+  {
+    "name": "Faaah – Filesystem as an AI Handler",
+    "url": "https://github.com/sebastiancarlos/faaah",
+    "source": "Hacker News",
+    "date": "2026-08-09"
   }
 ]
