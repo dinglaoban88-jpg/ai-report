@@ -6592,5 +6592,23 @@
     "url": "https://www.producthunt.com/products/sidekick-16",
     "source": "Product Hunt",
     "date": "2026-08-13"
+  },
+  {
+    "name": "Media Sharing",
+    "url": "https://www.producthunt.com/products/argos",
+    "source": "Product Hunt",
+    "date": "2026-08-13"
+  },
+  {
+    "name": "CrewScore",
+    "url": "https://crewscore.ai/",
+    "source": "Hacker News",
+    "date": "2026-08-13"
+  },
+  {
+    "name": "zejue/xianyu-rpa",
+    "url": "https://github.com/zejue/xianyu-rpa",
+    "source": "GitHub",
+    "date": "2026-08-13"
   }
 ]
