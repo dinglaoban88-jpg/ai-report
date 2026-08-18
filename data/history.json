@@ -6724,5 +6724,23 @@
     "url": "https://app.deltix.ai",
     "source": "Hacker News",
     "date": "2026-08-17"
+  },
+  {
+    "name": "Skriptr",
+    "url": "https://www.producthunt.com/products/skriptr",
+    "source": "Product Hunt",
+    "date": "2026-08-18"
+  },
+  {
+    "name": "TinyFish",
+    "url": "https://www.producthunt.com/products/tinyfish-2",
+    "source": "Product Hunt",
+    "date": "2026-08-18"
+  },
+  {
+    "name": "Sokoban AI Solver",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "source": "Hacker News",
+    "date": "2026-08-18"
   }
 ]
