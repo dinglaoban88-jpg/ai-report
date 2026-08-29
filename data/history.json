@@ -7096,5 +7096,17 @@
     "url": "https://www.producthunt.com/products/seendiff",
     "source": "Product Hunt",
     "date": "2026-08-29"
+  },
+  {
+    "name": "publicdesktop.lol",
+    "url": "https://www.producthunt.com/products/publicdesktop-lol",
+    "source": "Product Hunt",
+    "date": "2026-08-29"
+  },
+  {
+    "name": "ContextSwitch",
+    "url": "https://contextswitch-blue.vercel.app/",
+    "source": "Hacker News",
+    "date": "2026-08-29"
   }
 ]
