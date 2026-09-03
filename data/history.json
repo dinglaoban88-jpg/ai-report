@@ -7240,5 +7240,23 @@
     "url": "https://semantic-overlays.vercel.app/",
     "source": "Hacker News",
     "date": "2026-09-02"
+  },
+  {
+    "name": "Roadie",
+    "url": "https://www.producthunt.com/products/roadie-4",
+    "source": "Product Hunt",
+    "date": "2026-09-03"
+  },
+  {
+    "name": "Windrunner",
+    "url": "https://shzlw.github.io/windrunner/",
+    "source": "Hacker News",
+    "date": "2026-09-03"
+  },
+  {
+    "name": "Dynamic Edge",
+    "url": "https://www.producthunt.com/products/dynamic-edge",
+    "source": "Product Hunt",
+    "date": "2026-09-03"
   }
 ]
