@@ -7318,5 +7318,17 @@
     "url": "https://www.audioreality.ai",
     "source": "Hacker News",
     "date": "2026-09-05"
+  },
+  {
+    "name": "Chalked for Mac",
+    "url": "https://www.producthunt.com/products/chalked",
+    "source": "Product Hunt",
+    "date": "2026-09-05"
+  },
+  {
+    "name": "Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+    "url": "https://sageling.ai/",
+    "source": "Hacker News",
+    "date": "2026-09-05"
   }
 ]
