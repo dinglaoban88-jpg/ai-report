@@ -7366,5 +7366,23 @@
     "url": "https://context.apimatic.io/",
     "source": "Hacker News",
     "date": "2026-09-06"
+  },
+  {
+    "name": "H3 Max by fal",
+    "url": "https://www.producthunt.com/products/fal-ai",
+    "source": "Product Hunt",
+    "date": "2026-09-07"
+  },
+  {
+    "name": "BrickForgerAI",
+    "url": "https://www.producthunt.com/products/brickforgerai",
+    "source": "Product Hunt",
+    "date": "2026-09-07"
+  },
+  {
+    "name": "I stopped using an LLM gateway and put rate-limits/fallback in-process",
+    "url": "https://github.com/LakBud/vernLLM",
+    "source": "Hacker News",
+    "date": "2026-09-07"
   }
 ]
