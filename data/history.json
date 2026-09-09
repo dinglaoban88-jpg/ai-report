@@ -7426,5 +7426,23 @@
     "url": "https://www.producthunt.com/products/snitch-4",
     "source": "Product Hunt",
     "date": "2026-09-08"
+  },
+  {
+    "name": "bonds",
+    "url": "https://www.producthunt.com/products/bonds-2",
+    "source": "Product Hunt",
+    "date": "2026-09-09"
+  },
+  {
+    "name": "Lyrimuse",
+    "url": "https://www.producthunt.com/products/lyrimuse",
+    "source": "Product Hunt",
+    "date": "2026-09-09"
+  },
+  {
+    "name": "LLM Attention Visualization",
+    "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+    "source": "Hacker News",
+    "date": "2026-09-09"
   }
 ]
