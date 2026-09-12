@@ -7522,5 +7522,23 @@
     "url": "https://botbin.io/?v=next",
     "source": "Hacker News",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Loqua",
+    "url": "https://www.producthunt.com/products/loqua",
+    "source": "Product Hunt",
+    "date": "2026-09-12"
+  },
+  {
+    "name": "Extension to filter LLM written articles",
+    "url": "https://hnslop.nilsherzig.com/",
+    "source": "Hacker News",
+    "date": "2026-09-12"
+  },
+  {
+    "name": "Formesign",
+    "url": "https://www.producthunt.com/products/formesign",
+    "source": "Product Hunt",
+    "date": "2026-09-12"
   }
 ]
