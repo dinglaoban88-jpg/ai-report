@@ -7540,5 +7540,23 @@
     "url": "https://www.producthunt.com/products/formesign",
     "source": "Product Hunt",
     "date": "2026-09-12"
+  },
+  {
+    "name": "chat-recall",
+    "url": "https://www.producthunt.com/products/chat-recall",
+    "source": "Product Hunt",
+    "date": "2026-09-12"
+  },
+  {
+    "name": "Sliick",
+    "url": "https://www.producthunt.com/products/sliick",
+    "source": "Product Hunt",
+    "date": "2026-09-12"
+  },
+  {
+    "name": "Spanda – Sub-microsecond LLM epistemic uncertainty in Rust",
+    "url": "https://github.com/Adarshent/Spnda",
+    "source": "Hacker News",
+    "date": "2026-09-12"
   }
 ]
