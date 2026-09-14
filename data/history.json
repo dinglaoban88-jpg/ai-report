@@ -7594,5 +7594,23 @@
     "url": "https://www.tokendelivery.ai/",
     "source": "Hacker News",
     "date": "2026-09-13"
+  },
+  {
+    "name": "Kirokune",
+    "url": "https://www.producthunt.com/products/kirokune",
+    "source": "Product Hunt",
+    "date": "2026-09-14"
+  },
+  {
+    "name": "Neopress",
+    "url": "https://www.producthunt.com/products/neopress",
+    "source": "Product Hunt",
+    "date": "2026-09-14"
+  },
+  {
+    "name": "Kairo – Fail-closed LLM inference routing from RTX 5090 measurements",
+    "url": "https://github.com/peter941221/Kairo",
+    "source": "Hacker News",
+    "date": "2026-09-14"
   }
 ]
