@@ -7666,5 +7666,23 @@
     "url": "https://threshyr.com",
     "source": "Hacker News",
     "date": "2026-09-15"
+  },
+  {
+    "name": "Tangerine",
+    "url": "https://www.producthunt.com/products/tangerine-zero-click-file-converter",
+    "source": "Product Hunt",
+    "date": "2026-09-16"
+  },
+  {
+    "name": "Anthropologic",
+    "url": "https://www.producthunt.com/products/anthropologic",
+    "source": "Product Hunt",
+    "date": "2026-09-16"
+  },
+  {
+    "name": "Pizza Bot – An inbox for AI agents that work in the background",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "source": "Hacker News",
+    "date": "2026-09-16"
   }
 ]
