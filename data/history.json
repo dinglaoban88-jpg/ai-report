@@ -7702,5 +7702,23 @@
     "url": "https://www.producthunt.com/products/portaura",
     "source": "Product Hunt",
     "date": "2026-09-16"
+  },
+  {
+    "name": "Convo",
+    "url": "https://www.producthunt.com/products/convo-7",
+    "source": "Product Hunt",
+    "date": "2026-09-17"
+  },
+  {
+    "name": "Project Feed",
+    "url": "https://www.producthunt.com/products/project-feed",
+    "source": "Product Hunt",
+    "date": "2026-09-17"
+  },
+  {
+    "name": "How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "url": "https://stale.jock.pl/",
+    "source": "Hacker News",
+    "date": "2026-09-17"
   }
 ]
