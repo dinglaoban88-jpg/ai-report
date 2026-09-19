@@ -7792,5 +7792,23 @@
     "url": "https://www.computesdk.com/benchmarks/ai-gateway/models",
     "source": "Hacker News",
     "date": "2026-09-19"
+  },
+  {
+    "name": "Rolequiry",
+    "url": "https://www.producthunt.com/products/rolequiry",
+    "source": "Product Hunt",
+    "date": "2026-09-19"
+  },
+  {
+    "name": "AutoBot – live voice control for long-running AI work",
+    "url": "https://github.com/demeyer1/Autobot",
+    "source": "Hacker News",
+    "date": "2026-09-19"
+  },
+  {
+    "name": "MiRemoteBridge",
+    "url": "https://www.producthunt.com/products/miremotebridge",
+    "source": "Product Hunt",
+    "date": "2026-09-19"
   }
 ]
