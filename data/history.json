@@ -7846,5 +7846,23 @@
     "url": "https://www.producthunt.com/products/agent-interface",
     "source": "Product Hunt",
     "date": "2026-09-20"
+  },
+  {
+    "name": "Answers by Context.dev",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "source": "Product Hunt",
+    "date": "2026-09-21"
+  },
+  {
+    "name": "jevals – replacing LLM judges with typed Jev decisions",
+    "url": "https://github.com/openlayer-ai/jevals",
+    "source": "Hacker News",
+    "date": "2026-09-21"
+  },
+  {
+    "name": "TypeLLM/TypeLLM",
+    "url": "https://github.com/TypeLLM/TypeLLM",
+    "source": "GitHub",
+    "date": "2026-09-21"
   }
 ]
