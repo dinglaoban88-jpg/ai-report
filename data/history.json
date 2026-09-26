@@ -8038,5 +8038,23 @@
     "url": "https://www.doom-or-bloom.com",
     "source": "Hacker News",
     "date": "2026-09-26"
+  },
+  {
+    "name": "JevForAgents",
+    "url": "https://www.producthunt.com/products/jevforagents",
+    "source": "Product Hunt",
+    "date": "2026-09-26"
+  },
+  {
+    "name": "Hard Stop: Kernel-level preemption for autonomous AI agents",
+    "url": "https://arxiv.org/abs/2609.29808",
+    "source": "Hacker News",
+    "date": "2026-09-26"
+  },
+  {
+    "name": "DemoScreen",
+    "url": "https://www.producthunt.com/products/demoscreen",
+    "source": "Product Hunt",
+    "date": "2026-09-26"
   }
 ]
