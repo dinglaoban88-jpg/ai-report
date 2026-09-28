@@ -8110,5 +8110,23 @@
     "url": "https://tinyaiarena.com/",
     "source": "Hacker News",
     "date": "2026-09-28"
+  },
+  {
+    "name": "Ryu Journal",
+    "url": "https://www.producthunt.com/products/ryu-journal",
+    "source": "Product Hunt",
+    "date": "2026-09-28"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "url": "https://www.producthunt.com/products/microsoft-copilot-2",
+    "source": "Product Hunt",
+    "date": "2026-09-28"
+  },
+  {
+    "name": "ufo-ai/ufo-core",
+    "url": "https://github.com/ufo-ai/ufo-core",
+    "source": "GitHub",
+    "date": "2026-09-28"
   }
 ]
