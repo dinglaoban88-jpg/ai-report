@@ -8128,5 +8128,23 @@
     "url": "https://github.com/ufo-ai/ufo-core",
     "source": "GitHub",
     "date": "2026-09-28"
+  },
+  {
+    "name": "FaveNest",
+    "url": "https://www.producthunt.com/products/favenest",
+    "source": "Product Hunt",
+    "date": "2026-09-29"
+  },
+  {
+    "name": "Vitals ",
+    "url": "https://www.producthunt.com/products/vitals-3",
+    "source": "Product Hunt",
+    "date": "2026-09-29"
+  },
+  {
+    "name": "Kern Sandbox, run LLM-generated code locally, no cloud, no daemon",
+    "url": "https://getkern.dev/guide/sandbox.html",
+    "source": "Hacker News",
+    "date": "2026-09-29"
   }
 ]
