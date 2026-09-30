@@ -8182,5 +8182,23 @@
     "url": "https://www.producthunt.com/products/timeful",
     "source": "Product Hunt",
     "date": "2026-09-30"
+  },
+  {
+    "name": "Julius AI",
+    "url": "https://jylus.ai/try",
+    "source": "Hacker News",
+    "date": "2026-09-30"
+  },
+  {
+    "name": "Bevell",
+    "url": "https://www.producthunt.com/products/bevell",
+    "source": "Product Hunt",
+    "date": "2026-09-30"
+  },
+  {
+    "name": "Recalld – A memory layer for AI agents that returns only relevant facts",
+    "url": "https://recalld.ai/",
+    "source": "Hacker News",
+    "date": "2026-09-30"
   }
 ]
