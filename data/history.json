@@ -8200,5 +8200,23 @@
     "url": "https://recalld.ai/",
     "source": "Hacker News",
     "date": "2026-09-30"
+  },
+  {
+    "name": "Lathoa",
+    "url": "https://lathoa.ai/en",
+    "source": "Hacker News",
+    "date": "2026-10-01"
+  },
+  {
+    "name": "Strata",
+    "url": "https://strata.do/",
+    "source": "Hacker News",
+    "date": "2026-10-01"
+  },
+  {
+    "name": "WebinarFlow",
+    "url": "https://www.producthunt.com/products/webinarflow",
+    "source": "Product Hunt",
+    "date": "2026-10-01"
   }
 ]
