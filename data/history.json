@@ -8440,5 +8440,23 @@
     "url": "https://agentability.org/",
     "source": "Hacker News",
     "date": "2026-10-07"
+  },
+  {
+    "name": "Linda",
+    "url": "https://www.producthunt.com/products/linda",
+    "source": "Product Hunt",
+    "date": "2026-10-07"
+  },
+  {
+    "name": "AI Circuit Breaker – Reverse proxy to stop agent infinite loops",
+    "url": "https://circuit-breaker-sage.vercel.app/",
+    "source": "Hacker News",
+    "date": "2026-10-07"
+  },
+  {
+    "name": "Vresk",
+    "url": "https://www.producthunt.com/products/vresk",
+    "source": "Product Hunt",
+    "date": "2026-10-07"
   }
 ]
