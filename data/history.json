@@ -8548,5 +8548,23 @@
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
     "source": "Hacker News",
     "date": "2026-10-10"
+  },
+  {
+    "name": "Kitbar",
+    "url": "https://www.producthunt.com/products/kitbar",
+    "source": "Product Hunt",
+    "date": "2026-10-10"
+  },
+  {
+    "name": "Spectra – A drop-in optimizer that cuts LLM training VRAM by 50%",
+    "url": "https://github.com/SpectraSI/SpectraAdamw",
+    "source": "Hacker News",
+    "date": "2026-10-10"
+  },
+  {
+    "name": "Naarchy",
+    "url": "https://www.producthunt.com/products/naarchy",
+    "source": "Product Hunt",
+    "date": "2026-10-10"
   }
 ]
