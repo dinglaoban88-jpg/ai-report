@@ -8566,5 +8566,23 @@
     "url": "https://www.producthunt.com/products/naarchy",
     "source": "Product Hunt",
     "date": "2026-10-10"
+  },
+  {
+    "name": "PocketWebTools for Mac",
+    "url": "https://www.producthunt.com/products/pocketwebtools",
+    "source": "Product Hunt",
+    "date": "2026-10-11"
+  },
+  {
+    "name": "New Windows Search",
+    "url": "https://www.producthunt.com/products/new-windows-search",
+    "source": "Product Hunt",
+    "date": "2026-10-11"
+  },
+  {
+    "name": "Try Free Long-Term Memory for AI 50M-Token Window",
+    "url": "https://github.com/corbenicai/galahad",
+    "source": "Hacker News",
+    "date": "2026-10-11"
   }
 ]
