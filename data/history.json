@@ -8602,5 +8602,23 @@
     "url": "https://maplehill.openwants.com/",
     "source": "Hacker News",
     "date": "2026-10-11"
+  },
+  {
+    "name": "SquadRoom",
+    "url": "https://www.producthunt.com/products/squadroom",
+    "source": "Product Hunt",
+    "date": "2026-10-12"
+  },
+  {
+    "name": "Seodata.dev (1.1) Free search data for AI agents",
+    "url": "https://www.seodata.dev/",
+    "source": "Hacker News",
+    "date": "2026-10-12"
+  },
+  {
+    "name": "tony3liu/eido",
+    "url": "https://github.com/tony3liu/eido",
+    "source": "GitHub",
+    "date": "2026-10-12"
   }
 ]
