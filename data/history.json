@@ -8692,5 +8692,23 @@
     "url": "https://www.producthunt.com/products/toby-5",
     "source": "Product Hunt",
     "date": "2026-10-14"
+  },
+  {
+    "name": "Music Dawn",
+    "url": "https://www.producthunt.com/products/music-dawn",
+    "source": "Product Hunt",
+    "date": "2026-10-14"
+  },
+  {
+    "name": "HarnessHive",
+    "url": "https://www.producthunt.com/products/harnesshive",
+    "source": "Product Hunt",
+    "date": "2026-10-14"
+  },
+  {
+    "name": "Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+    "url": "https://github.com/RayenMlayeh/jevcrawl",
+    "source": "Hacker News",
+    "date": "2026-10-14"
   }
 ]
