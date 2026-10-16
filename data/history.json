@@ -8746,5 +8746,23 @@
     "url": "https://github.com/datalab-to/indra",
     "source": "GitHub",
     "date": "2026-10-15"
+  },
+  {
+    "name": "Atticus",
+    "url": "https://www.producthunt.com/products/atticus",
+    "source": "Product Hunt",
+    "date": "2026-10-16"
+  },
+  {
+    "name": "Superdraft",
+    "url": "https://www.producthunt.com/products/superdraft",
+    "source": "Product Hunt",
+    "date": "2026-10-16"
+  },
+  {
+    "name": "Guess the LLM",
+    "url": "https://guessthellm.com/",
+    "source": "Hacker News",
+    "date": "2026-10-16"
   }
 ]
