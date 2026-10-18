@@ -8818,5 +8818,23 @@
     "url": "https://rstation.ai/",
     "source": "Hacker News",
     "date": "2026-10-17"
+  },
+  {
+    "name": "Spiralens",
+    "url": "https://www.producthunt.com/products/spiralens",
+    "source": "Product Hunt",
+    "date": "2026-10-18"
+  },
+  {
+    "name": "Emochi",
+    "url": "https://www.producthunt.com/products/emochi-2",
+    "source": "Product Hunt",
+    "date": "2026-10-18"
+  },
+  {
+    "name": "Sphinx – a hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "source": "Hacker News",
+    "date": "2026-10-18"
   }
 ]
