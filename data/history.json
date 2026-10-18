@@ -8836,5 +8836,23 @@
     "url": "https://sphinx-six-theta.vercel.app/",
     "source": "Hacker News",
     "date": "2026-10-18"
+  },
+  {
+    "name": "Craft Agents",
+    "url": "https://www.producthunt.com/products/craft-agents",
+    "source": "Product Hunt",
+    "date": "2026-10-18"
+  },
+  {
+    "name": "Unfenced",
+    "url": "https://www.producthunt.com/products/unfenced",
+    "source": "Product Hunt",
+    "date": "2026-10-18"
+  },
+  {
+    "name": "Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+    "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "source": "Hacker News",
+    "date": "2026-10-18"
   }
 ]
