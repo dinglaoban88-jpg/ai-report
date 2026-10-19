@@ -8872,5 +8872,23 @@
     "url": "https://github.com/hybroai/hybro",
     "source": "Hacker News",
     "date": "2026-10-19"
+  },
+  {
+    "name": "Latch",
+    "url": "https://www.producthunt.com/products/latch-7",
+    "source": "Product Hunt",
+    "date": "2026-10-19"
+  },
+  {
+    "name": "DocuMemory – Persistent memory and context for AI coding tools",
+    "url": "https://www.documemory.dev/",
+    "source": "Hacker News",
+    "date": "2026-10-19"
+  },
+  {
+    "name": "SpeechFast",
+    "url": "https://www.producthunt.com/products/speechfast",
+    "source": "Product Hunt",
+    "date": "2026-10-19"
   }
 ]
