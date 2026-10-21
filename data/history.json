@@ -8944,5 +8944,23 @@
     "url": "https://www.producthunt.com/products/praex",
     "source": "Product Hunt",
     "date": "2026-10-21"
+  },
+  {
+    "name": "Kling 4.0",
+    "url": "https://www.producthunt.com/products/kling-4-0-4",
+    "source": "Product Hunt",
+    "date": "2026-10-21"
+  },
+  {
+    "name": "Standard Topic – An AI and RSS-powered news and resource platform",
+    "url": "https://www.standardtopic.com/",
+    "source": "Hacker News",
+    "date": "2026-10-21"
+  },
+  {
+    "name": "Agent Archive – Session Handoffs and Backups for Claude Code and Codex",
+    "url": "https://github.com/wangjohn/agent-archive",
+    "source": "Hacker News",
+    "date": "2026-10-21"
   }
 ]
