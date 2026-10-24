@@ -9052,5 +9052,23 @@
     "url": "https://www.producthunt.com/products/monid",
     "source": "Product Hunt",
     "date": "2026-10-24"
+  },
+  {
+    "name": "ElevenLabs Realtime",
+    "url": "https://www.producthunt.com/products/realtime-max-mini",
+    "source": "Product Hunt",
+    "date": "2026-10-24"
+  },
+  {
+    "name": "Koala – Run AI Agents in Isolated Linux VMs on macOS",
+    "url": "https://kunalkushwaha.github.io/homebrew-koala/",
+    "source": "Hacker News",
+    "date": "2026-10-24"
+  },
+  {
+    "name": "transitive-bullshit/apple-music-effect",
+    "url": "https://github.com/transitive-bullshit/apple-music-effect",
+    "source": "GitHub",
+    "date": "2026-10-24"
   }
 ]
