@@ -9034,5 +9034,23 @@
     "url": "https://hnsieve.com",
     "source": "Hacker News",
     "date": "2026-10-23"
+  },
+  {
+    "name": "We had AI write a wiki from 45k Enron emails, every fact cited",
+    "url": "https://www.thisandthat.chat/enron/",
+    "source": "Hacker News",
+    "date": "2026-10-24"
+  },
+  {
+    "name": "DotMD",
+    "url": "https://www.producthunt.com/products/dotmd-3",
+    "source": "Product Hunt",
+    "date": "2026-10-24"
+  },
+  {
+    "name": "Agent Hunt",
+    "url": "https://www.producthunt.com/products/monid",
+    "source": "Product Hunt",
+    "date": "2026-10-24"
   }
 ]
