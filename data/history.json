@@ -9106,5 +9106,23 @@
     "url": "https://inference.coop/",
     "source": "Hacker News",
     "date": "2026-10-25"
+  },
+  {
+    "name": "Yourcast 2.0",
+    "url": "https://www.producthunt.com/products/yourcast",
+    "source": "Product Hunt",
+    "date": "2026-10-26"
+  },
+  {
+    "name": "Open Accountant – AI-customizable budgeting app for freelancers",
+    "url": "https://github.com/finereli/open-accountant",
+    "source": "Hacker News",
+    "date": "2026-10-26"
+  },
+  {
+    "name": "AI Heat Map Sourced from over 140 News Feeds",
+    "url": "https://ai.jagular.io",
+    "source": "Hacker News",
+    "date": "2026-10-26"
   }
 ]
