@@ -9124,5 +9124,23 @@
     "url": "https://ai.jagular.io",
     "source": "Hacker News",
     "date": "2026-10-26"
+  },
+  {
+    "name": "AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "source": "Product Hunt",
+    "date": "2026-10-26"
+  },
+  {
+    "name": "Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+    "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+    "source": "Hacker News",
+    "date": "2026-10-26"
+  },
+  {
+    "name": "MRRaudit",
+    "url": "https://www.producthunt.com/products/mrraudit",
+    "source": "Product Hunt",
+    "date": "2026-10-26"
   }
 ]
