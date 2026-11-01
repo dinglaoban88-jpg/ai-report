@@ -9316,5 +9316,23 @@
     "url": "https://freightfloor.com",
     "source": "Hacker News",
     "date": "2026-10-31"
+  },
+  {
+    "name": "Yuzu Sync",
+    "url": "https://www.producthunt.com/products/yuzu-sync",
+    "source": "Product Hunt",
+    "date": "2026-11-01"
+  },
+  {
+    "name": "Governor, a firewall for AI agent spend and tool calls",
+    "url": "https://bsvkey-governor-demo.fly.dev/",
+    "source": "Hacker News",
+    "date": "2026-11-01"
+  },
+  {
+    "name": "Balanov/baiagent-director",
+    "url": "https://github.com/Balanov/baiagent-director",
+    "source": "GitHub",
+    "date": "2026-11-01"
   }
 ]
