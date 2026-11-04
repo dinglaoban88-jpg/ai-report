@@ -9436,5 +9436,23 @@
     "url": "https://www.producthunt.com/products/machinemail",
     "source": "Product Hunt",
     "date": "2026-11-04"
+  },
+  {
+    "name": "Recto: A desktop app where you can design with AI, edit with your mouse",
+    "url": "https://recto.design",
+    "source": "Hacker News",
+    "date": "2026-11-04"
+  },
+  {
+    "name": "Scrawl",
+    "url": "https://www.producthunt.com/products/scrawl-2",
+    "source": "Product Hunt",
+    "date": "2026-11-04"
+  },
+  {
+    "name": "Interactive notes on RLHF, attention, LoRA and LLM evals",
+    "url": "https://concepts.laxmena.com/",
+    "source": "Hacker News",
+    "date": "2026-11-04"
   }
 ]
