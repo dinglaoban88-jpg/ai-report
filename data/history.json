@@ -9508,5 +9508,23 @@
     "url": "https://labcanary.com/",
     "source": "Hacker News",
     "date": "2026-11-06"
+  },
+  {
+    "name": "AudioCentral",
+    "url": "https://www.producthunt.com/products/audiocentral",
+    "source": "Product Hunt",
+    "date": "2026-11-06"
+  },
+  {
+    "name": "Sanctuary – Offline LLM Running on Apple Silicon Metal (iOS)",
+    "url": "https://testflight.apple.com/join/Z51G6g5G",
+    "source": "Hacker News",
+    "date": "2026-11-06"
+  },
+  {
+    "name": "tdelowar17-tech/coregold-agent-paygate",
+    "url": "https://github.com/tdelowar17-tech/coregold-agent-paygate",
+    "source": "GitHub",
+    "date": "2026-11-06"
   }
 ]
