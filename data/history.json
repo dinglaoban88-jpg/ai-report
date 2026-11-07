@@ -9526,5 +9526,23 @@
     "url": "https://github.com/tdelowar17-tech/coregold-agent-paygate",
     "source": "GitHub",
     "date": "2026-11-06"
+  },
+  {
+    "name": "PostMyPace",
+    "url": "https://www.producthunt.com/products/postmypace",
+    "source": "Product Hunt",
+    "date": "2026-11-07"
+  },
+  {
+    "name": "Wisp",
+    "url": "https://www.producthunt.com/products/wisp-9",
+    "source": "Product Hunt",
+    "date": "2026-11-07"
+  },
+  {
+    "name": "Agentic Identity Broker, OAuth Delegation for AI Agents",
+    "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+    "source": "Hacker News",
+    "date": "2026-11-07"
   }
 ]
