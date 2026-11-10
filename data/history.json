@@ -9616,5 +9616,23 @@
     "url": "https://regestown.com",
     "source": "Hacker News",
     "date": "2026-11-09"
+  },
+  {
+    "name": "Lottie AI",
+    "url": "https://www.producthunt.com/products/lottiefiles",
+    "source": "Product Hunt",
+    "date": "2026-11-10"
+  },
+  {
+    "name": "Daytwo",
+    "url": "https://www.producthunt.com/products/daytwo-2",
+    "source": "Product Hunt",
+    "date": "2026-11-10"
+  },
+  {
+    "name": "STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "source": "Hacker News",
+    "date": "2026-11-10"
   }
 ]
