@@ -9652,5 +9652,23 @@
     "url": "https://github.com/humanethq/airgap-check",
     "source": "Hacker News",
     "date": "2026-11-10"
+  },
+  {
+    "name": "Levo",
+    "url": "https://www.producthunt.com/products/levo-3",
+    "source": "Product Hunt",
+    "date": "2026-11-11"
+  },
+  {
+    "name": "CloakPane",
+    "url": "https://www.producthunt.com/products/cloakpane",
+    "source": "Product Hunt",
+    "date": "2026-11-11"
+  },
+  {
+    "name": "AI agents that barter your stuff for things you want",
+    "url": "https://barterpilot.com/",
+    "source": "Hacker News",
+    "date": "2026-11-11"
   }
 ]
