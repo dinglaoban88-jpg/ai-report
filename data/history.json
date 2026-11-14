@@ -9760,5 +9760,23 @@
     "url": "https://rocketgit.com/user/catalinux/ai-drop",
     "source": "Hacker News",
     "date": "2026-11-13"
+  },
+  {
+    "name": "Ganella",
+    "url": "https://www.producthunt.com/products/ganella",
+    "source": "Product Hunt",
+    "date": "2026-11-14"
+  },
+  {
+    "name": "de:volt",
+    "url": "https://www.producthunt.com/products/de-volt",
+    "source": "Product Hunt",
+    "date": "2026-11-14"
+  },
+  {
+    "name": "Log every LLM call with tokens, cost, latency, and time to first token",
+    "url": "https://github.com/garritfra/llmtee",
+    "source": "Hacker News",
+    "date": "2026-11-14"
   }
 ]
