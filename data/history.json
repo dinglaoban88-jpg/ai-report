@@ -9868,5 +9868,23 @@
     "url": "https://www.producthunt.com/products/stateweave",
     "source": "Product Hunt",
     "date": "2026-11-16"
+  },
+  {
+    "name": "ExtraDock 5",
+    "url": "https://www.producthunt.com/products/extradock",
+    "source": "Product Hunt",
+    "date": "2026-11-17"
+  },
+  {
+    "name": "Lampa Camera",
+    "url": "https://www.producthunt.com/products/lampa-camera",
+    "source": "Product Hunt",
+    "date": "2026-11-17"
+  },
+  {
+    "name": "Blue-harness – audit and harden binaries against AI-assisted reversing",
+    "url": "https://github.com/seifheakal/blue-harness",
+    "source": "Hacker News",
+    "date": "2026-11-17"
   }
 ]
