@@ -9952,5 +9952,23 @@
     "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
     "source": "Hacker News",
     "date": "2026-11-19"
+  },
+  {
+    "name": "Verse Engine by Ctruh",
+    "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
+    "source": "Product Hunt",
+    "date": "2026-11-19"
+  },
+  {
+    "name": "Waku.One",
+    "url": "https://www.waku.one/",
+    "source": "Hacker News",
+    "date": "2026-11-19"
+  },
+  {
+    "name": "100ms copy-on-write workspaces for AI agents on macOS",
+    "url": "https://github.com/gabrielvfonseca/replica",
+    "source": "Hacker News",
+    "date": "2026-11-19"
   }
 ]
