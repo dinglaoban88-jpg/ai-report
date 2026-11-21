@@ -10006,5 +10006,23 @@
     "url": "https://www.producthunt.com/products/storiara",
     "source": "Product Hunt",
     "date": "2026-11-20"
+  },
+  {
+    "name": "Backspin",
+    "url": "https://www.producthunt.com/products/backspin",
+    "source": "Product Hunt",
+    "date": "2026-11-21"
+  },
+  {
+    "name": "ArkViz",
+    "url": "https://arkviz.io",
+    "source": "Hacker News",
+    "date": "2026-11-21"
+  },
+  {
+    "name": "Luminol: see what AI evidence a Windows PC holds and when it expires",
+    "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+    "source": "Hacker News",
+    "date": "2026-11-21"
   }
 ]
