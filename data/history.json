@@ -10042,5 +10042,23 @@
     "url": "https://www.producthunt.com/products/exa-ai",
     "source": "Product Hunt",
     "date": "2026-11-21"
+  },
+  {
+    "name": "Smorza",
+    "url": "https://www.producthunt.com/products/smorza",
+    "source": "Product Hunt",
+    "date": "2026-11-22"
+  },
+  {
+    "name": "Stitch Loop",
+    "url": "https://www.producthunt.com/products/stitch-loop",
+    "source": "Product Hunt",
+    "date": "2026-11-22"
+  },
+  {
+    "name": "agent-mcts – Monte Carlo tree search on top of Claude Code",
+    "url": "https://github.com/natsu0529/agent-mcts",
+    "source": "Hacker News",
+    "date": "2026-11-22"
   }
 ]
