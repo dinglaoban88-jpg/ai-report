@@ -10060,5 +10060,23 @@
     "url": "https://github.com/natsu0529/agent-mcts",
     "source": "Hacker News",
     "date": "2026-11-22"
+  },
+  {
+    "name": "Resurf",
+    "url": "https://www.producthunt.com/products/resurf-2",
+    "source": "Product Hunt",
+    "date": "2026-11-22"
+  },
+  {
+    "name": "oovi",
+    "url": "https://www.producthunt.com/products/oovi",
+    "source": "Product Hunt",
+    "date": "2026-11-22"
+  },
+  {
+    "name": "ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+    "url": "https://clawvet.vercel.app/",
+    "source": "Hacker News",
+    "date": "2026-11-22"
   }
 ]
