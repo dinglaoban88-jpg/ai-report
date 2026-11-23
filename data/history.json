@@ -10078,5 +10078,23 @@
     "url": "https://clawvet.vercel.app/",
     "source": "Hacker News",
     "date": "2026-11-22"
+  },
+  {
+    "name": "Klistra",
+    "url": "https://klistra.ai/",
+    "source": "Hacker News",
+    "date": "2026-11-23"
+  },
+  {
+    "name": "LeanTake",
+    "url": "https://www.producthunt.com/products/leantake",
+    "source": "Product Hunt",
+    "date": "2026-11-23"
+  },
+  {
+    "name": "Omi Work",
+    "url": "https://www.producthunt.com/products/omi-work",
+    "source": "Product Hunt",
+    "date": "2026-11-23"
   }
 ]
