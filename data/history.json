@@ -10228,5 +10228,23 @@
     "url": "https://maverickbuilds.app/",
     "source": "Hacker News",
     "date": "2026-11-27"
+  },
+  {
+    "name": "Ploid",
+    "url": "https://www.producthunt.com/products/ploid",
+    "source": "Product Hunt",
+    "date": "2026-11-27"
+  },
+  {
+    "name": "Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs",
+    "url": "https://harny.dev/",
+    "source": "Hacker News",
+    "date": "2026-11-27"
+  },
+  {
+    "name": "Spark AI",
+    "url": "https://www.producthunt.com/products/spark-ai-7",
+    "source": "Product Hunt",
+    "date": "2026-11-27"
   }
 ]
