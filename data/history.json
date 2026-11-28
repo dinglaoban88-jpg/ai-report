@@ -10264,5 +10264,23 @@
     "url": "https://onair.io/blog/agents-can-call",
     "source": "Hacker News",
     "date": "2026-11-28"
+  },
+  {
+    "name": "Stacktrace",
+    "url": "https://www.producthunt.com/products/stacktrace",
+    "source": "Product Hunt",
+    "date": "2026-11-28"
+  },
+  {
+    "name": "I ran an LLM written in F# on a Commodore 64 [video]",
+    "url": "https://www.youtube.com/watch?v=2zufRUcZeuc",
+    "source": "Hacker News",
+    "date": "2026-11-28"
+  },
+  {
+    "name": "OpenCrawl",
+    "url": "https://www.producthunt.com/products/opencrawl",
+    "source": "Product Hunt",
+    "date": "2026-11-28"
   }
 ]
